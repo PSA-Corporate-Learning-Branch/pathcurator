@@ -163,7 +163,7 @@
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-09-21T00:34:59.333Z",
+    "modifiedDate": "2025-09-23T18:40:23.007Z",
     "title": "The Ability to Access",
     "sortOrder": 0
   },
@@ -746,7 +746,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-09-21T00:34:59.333Z",
+    "modifiedDate": "2025-09-23T18:40:23.008Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -1583,7 +1583,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-09-21T00:34:59.334Z",
+    "modifiedDate": "2025-09-23T18:40:23.009Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 2,
     "createdBy": "Unknown"
@@ -2479,8 +2479,34 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-09-21T00:34:59.335Z",
+    "modifiedDate": "2025-09-23T18:40:23.011Z",
     "title": "Full Stack Developer",
     "sortOrder": 3
+  },
+  {
+    "name": "Tech and Dev CoP Resources",
+    "description": "Links to resources shared in the Corporate Learning Branch Tech and Dev community of Practice.",
+    "contentWarning": "",
+    "acknowledgments": "",
+    "steps": [],
+    "created": 1758652822744,
+    "versionHistory": [
+      {
+        "hash": "sn7y8b-2025-09-23",
+        "timestamp": 1758652822744,
+        "stepCount": 0,
+        "bookmarkCount": 0,
+        "modifiedBy": "bcgov-noris"
+      }
+    ],
+    "version": "sn7y8b-2025-09-23",
+    "lastUpdated": 1758652822744,
+    "modifiedBy": "bcgov-noris",
+    "createdBy": "bcgov-noris",
+    "id": "1758652822744",
+    "sortOrder": 4,
+    "createdDate": "2025-09-23T18:40:22.744Z",
+    "modifiedDate": "2025-09-23T18:40:23.015Z",
+    "title": "Tech and Dev CoP Resources"
   }
 ]
