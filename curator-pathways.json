@@ -598,7 +598,7 @@
     "topic": "House of Indigenous Learning",
     "sortOrder": 0,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-09-23T18:42:29.060Z",
+    "modifiedDate": "2025-10-03T02:11:58.609Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -692,6 +692,17 @@
             "sortOrder": 4,
             "addedBy": "Unknown",
             "added": 1755290377619
+          },
+          {
+            "url": "https://accessible.canada.ca/creating-accessibility-standards/can-asc-31-plain-language",
+            "title": "CAN-ASC-3.1 – Plain Language - Accessibility Standards Canada",
+            "description": "\n\nThis is the first edition of CAN/ASC-3.1, Plain Language Standard.\n\nThis Plain Language Standard is a mandatory (normative) Standard. It uses conventional regulatory language. Standards Council of Canada, as governed by the International Organization for Standardization (ISO) guidelines, requires that standards use regulatory language so that this Standard may be classified as a National Standard of Canada.\n\nThe Plain Language Technical Committee acknowledges this regulatory language does not follow some plain language principles in this Standard. The Technical Committee is working towards a time when all standards are presented in plain language to achieve accessibility, clarity, usability, and overall effectiveness.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "This one is so important and one of the easiest things to overlook.",
+            "required": true,
+            "addedAt": 1759457518603,
+            "sortOrder": 5
           }
         ],
         "createdBy": "Unknown",
@@ -772,12 +783,12 @@
       }
     ],
     "version": "0hhyia-2025-09-19",
-    "lastUpdated": 1758311589162,
+    "lastUpdated": 1759457518603,
     "modifiedBy": "Unknown",
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-09-23T18:42:29.060Z",
+    "modifiedDate": "2025-10-03T02:11:58.610Z",
     "title": "The Ability to Access",
     "sortOrder": 1
   },
@@ -1360,7 +1371,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-09-23T18:42:29.060Z",
+    "modifiedDate": "2025-10-03T02:11:58.611Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -2197,7 +2208,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-09-23T18:42:29.061Z",
+    "modifiedDate": "2025-10-03T02:11:58.613Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 3,
     "createdBy": "Unknown"
@@ -3093,7 +3104,7 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-09-23T18:42:29.061Z",
+    "modifiedDate": "2025-10-03T02:11:58.614Z",
     "title": "Full Stack Developer",
     "sortOrder": 4
   },
