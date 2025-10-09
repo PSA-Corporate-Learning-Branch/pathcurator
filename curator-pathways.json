@@ -598,7 +598,7 @@
     "topic": "House of Indigenous Learning",
     "sortOrder": 0,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-10-03T02:11:58.609Z",
+    "modifiedDate": "2025-10-09T17:38:20.894Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -703,6 +703,17 @@
             "required": true,
             "addedAt": 1759457518603,
             "sortOrder": 5
+          },
+          {
+            "url": "https://www.geeksforgeeks.org/websites-apps/hicks-law-in-ux/",
+            "title": "Hick’s Law in UX - GeeksforGeeks",
+            "description": "Hick's Law, commonly known as Hick-Hyman Law, is a psychological phenomenon which reveals the amount of time human requires to make a decision by the number of available selections. It is frequently used in the settings of user experience and interface design to explore the bond between the number of choices given to an individual and the decision making time of this individual.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "This can have a dramatic affect on accessibility. As simple as possible without being too simple!",
+            "required": true,
+            "addedAt": 1760031500891,
+            "sortOrder": 6
           }
         ],
         "createdBy": "Unknown",
@@ -783,12 +794,12 @@
       }
     ],
     "version": "0hhyia-2025-09-19",
-    "lastUpdated": 1759457518603,
+    "lastUpdated": 1760031500891,
     "modifiedBy": "Unknown",
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-10-03T02:11:58.610Z",
+    "modifiedDate": "2025-10-09T17:38:20.894Z",
     "title": "The Ability to Access",
     "sortOrder": 1
   },
@@ -1371,7 +1382,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-10-03T02:11:58.611Z",
+    "modifiedDate": "2025-10-09T17:38:20.895Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -2208,7 +2219,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-10-03T02:11:58.613Z",
+    "modifiedDate": "2025-10-09T17:38:20.896Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 3,
     "createdBy": "Unknown"
@@ -3104,7 +3115,7 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-10-03T02:11:58.614Z",
+    "modifiedDate": "2025-10-09T17:38:20.896Z",
     "title": "Full Stack Developer",
     "sortOrder": 4
   },
