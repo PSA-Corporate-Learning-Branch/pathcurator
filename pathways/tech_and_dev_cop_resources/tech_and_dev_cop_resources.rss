@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Tech and Dev CoP Resources</title>
+    <description>Links to resources shared in the Corporate Learning Branch Tech and Dev community of Practice.</description>
+    <link>pathcurator://pathway/1758652822744</link>
+    <atom:link href="pathcurator://pathway/1758652822744/rss" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 21:40:27 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Oct 2025 21:35:42 GMT</pubDate>
+    <generator>Path Curator Extension</generator>
+    <language>en-US</language>
+    <managingEditor>bcgov-noris</managingEditor>
+    <webMaster>bcgov-noris</webMaster>
+    <item>
+        <title>Two Slice, a font that&#039;s only 2px tall</title>
+        <description><![CDATA[<p>A font that&#039;s only 2px tall, and somewhat readable! Uppercase and lowercase have some different variants, in case you find one more readable than the other. Numbers (sort of) and some punctuation marks are included.</p><p><strong>Step Objective:</strong> Sometimes we share silly things. Because internet.</p>]]></description>
+        <link>https://joefatula.com/twoslice.html</link>
+        <guid isPermaLink="false">1758652822744-bookmark-2-0</guid>
+        <pubDate>Sun, 12 Oct 2025 09:40:27 GMT</pubDate>
+        <category>read</category>
+        <pathwayUrl>pathcurator://pathway/1758652822744</pathwayUrl>
+        <stepName>Just for fun</stepName>
+        <stepUrl>pathcurator://pathway/1758652822744/step/2</stepUrl>
+        <required>Bonus</required>
+        <contentType>read</contentType>
+    </item>
+    <item>
+        <title>WCAG 3 Introduction | Web Accessibility Initiative (WAI) | W3C</title>
+        <description><![CDATA[<p>Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory or developing phase and will change substantially.
+
+WCAG 3 will have similar accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
+
+Please share this page as the starting point for official information about WCAG 3 now and in the future. Short link: w3.org/WAI/wcag3</p><p><strong>Step Objective:</strong> Making the online world more accessible to all.</p>]]></description>
+        <link>https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/</link>
+        <guid isPermaLink="false">1758652822744-bookmark-1-0</guid>
+        <pubDate>Sat, 11 Oct 2025 13:40:27 GMT</pubDate>
+        <category>read</category>
+        <pathwayUrl>pathcurator://pathway/1758652822744</pathwayUrl>
+        <stepName>Web accessibility</stepName>
+        <stepUrl>pathcurator://pathway/1758652822744/step/1</stepUrl>
+        <required>Bonus</required>
+        <contentType>read</contentType>
+    </item>
+    <item>
+        <title>A cartoonist&#039;s review of AI art - The Oatmeal</title>
+        <description><![CDATA[<p>Shared by Allan. And it&#039;s from the Oatmeal so worth the time to view, promise.</p><p><strong>Step Objective:</strong> Always a hot topic.</p>]]></description>
+        <link>https://theoatmeal.com/comics/ai_art</link>
+        <guid isPermaLink="false">1758652822744-bookmark-0-0</guid>
+        <pubDate>Fri, 10 Oct 2025 17:40:27 GMT</pubDate>
+        <category>read</category>
+        <pathwayUrl>pathcurator://pathway/1758652822744</pathwayUrl>
+        <stepName>All about AI</stepName>
+        <stepUrl>pathcurator://pathway/1758652822744/step/0</stepUrl>
+        <required>Bonus</required>
+        <contentType>read</contentType>
+    </item>
+</channel>
+</rss>
