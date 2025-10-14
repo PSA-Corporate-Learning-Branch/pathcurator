@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Tech and Dev CoP Resources",
+    "description": "Links to resources shared in the Corporate Learning Branch Tech and Dev community of Practice.",
+    "contentWarning": "",
+    "acknowledgments": "",
+    "steps": [
+      {
+        "name": "All about AI",
+        "objective": "Always a hot topic.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://theoatmeal.com/comics/ai_art",
+            "title": "A cartoonist's review of AI art - The Oatmeal",
+            "description": "Shared by Allan. And it's from the Oatmeal so worth the time to view, promise.",
+            "type": "article",
+            "contentType": "read",
+            "context": "",
+            "required": false,
+            "addedAt": 1760477408548,
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "name": "Web accessibility",
+        "objective": "Making the online world more accessible to all.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/",
+            "title": "WCAG 3 Introduction | Web Accessibility Initiative (WAI) | W3C",
+            "description": "Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory or developing phase and will change substantially.\n\nWCAG 3 will have similar accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.\n\nPlease share this page as the starting point for official information about WCAG 3 now and in the future. Short link: w3.org/WAI/wcag3",
+            "type": "resource",
+            "contentType": "read",
+            "context": "",
+            "required": false,
+            "addedAt": 1760477621395,
+            "sortOrder": 0
+          }
+        ]
+      },
+      {
+        "name": "Just for fun",
+        "objective": "Sometimes we share silly things. Because internet.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://joefatula.com/twoslice.html",
+            "title": "Two Slice, a font that's only 2px tall",
+            "description": "A font that's only 2px tall, and somewhat readable! Uppercase and lowercase have some different variants, in case you find one more readable than the other. Numbers (sort of) and some punctuation marks are included.",
+            "type": "tool",
+            "contentType": "read",
+            "context": "",
+            "required": false,
+            "addedAt": 1760477742502,
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "created": 1758652822744,
+    "versionHistory": [
+      {
+        "hash": "81vlod-2025-10-14",
+        "timestamp": 1760477694116,
+        "stepCount": 3,
+        "bookmarkCount": 2,
+        "modifiedBy": "bcgov-noris"
+      },
+      {
+        "hash": "aq52ps-2025-10-14",
+        "timestamp": 1760477585391,
+        "stepCount": 2,
+        "bookmarkCount": 1,
+        "modifiedBy": "bcgov-noris"
+      },
+      {
+        "hash": "9kuzf7-2025-10-14",
+        "timestamp": 1760477562289,
+        "stepCount": 2,
+        "bookmarkCount": 1,
+        "modifiedBy": "bcgov-noris"
+      },
+      {
+        "hash": "3khuvh-2025-10-14",
+        "timestamp": 1760477527323,
+        "stepCount": 1,
+        "bookmarkCount": 1,
+        "modifiedBy": "bcgov-noris"
+      },
+      {
+        "hash": "s5onku-2025-10-14",
+        "timestamp": 1760476973343,
+        "stepCount": 1,
+        "bookmarkCount": 0,
+        "modifiedBy": "bcgov-noris"
+      },
+      {
+        "hash": "sn7y8b-2025-09-23",
+        "timestamp": 1758652822744,
+        "stepCount": 0,
+        "bookmarkCount": 0,
+        "modifiedBy": "bcgov-noris"
+      }
+    ],
+    "version": "81vlod-2025-10-14",
+    "lastUpdated": 1760477742502,
+    "modifiedBy": "bcgov-noris",
+    "createdBy": "bcgov-noris",
+    "id": "1758652822744",
+    "sortOrder": 5,
+    "createdDate": "2025-09-23T18:40:22.744Z",
+    "modifiedDate": "2025-10-14T21:35:42.536Z",
+    "title": "Tech and Dev CoP Resources"
+  }
+]
