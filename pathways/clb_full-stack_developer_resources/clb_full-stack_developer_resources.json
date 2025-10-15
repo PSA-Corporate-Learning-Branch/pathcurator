@@ -95,12 +95,98 @@
             "required": true,
             "addedAt": 1760493730529,
             "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/4",
+            "title": "GitHub Project · LearningHUB",
+            "description": "GitHub Projects are where the planning and development progress tracking happen.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "We use a kanban-style system to work in the spirit of agile without much of the dogma.",
+            "required": true,
+            "addedAt": 1760494586220,
+            "sortOrder": 1
+          }
+        ]
+      },
+      {
+        "name": "PSA Moodle",
+        "objective": "Our Moodle installation that we manage ourselves on OpenShift. It integrates with PeopleSoft ELM for enrolment and registration via a custom plugin.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://github.com/bcgov/moodle-nginx/tree/dev",
+            "title": "bcgov/moodle-nginx at dev",
+            "description": "Moodle Open-source Learning Management System with OpenShift build using ngnix, mariadb, php-fpm, redis, cron - bcgov/moodle-nginx at dev",
+            "type": "resource",
+            "contentType": "participate",
+            "context": "There's a whole lot goin' on in here. High-availability is complicated.",
+            "required": true,
+            "addedAt": 1760494295879,
+            "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
+            "title": "GitHiub Project · PSA Moodle",
+            "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "The main project place.",
+            "required": true,
+            "addedAt": 1760494704189,
+            "sortOrder": 1
+          }
+        ]
+      },
+      {
+        "name": "Other Places",
+        "objective": "Random assortment of links you will find useful.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://chat.developer.gov.bc.ca/home",
+            "title": "RocketChat - BCDevXHQ",
+            "description": "The place where discussion on the OpenShift platform takes place.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "Anything OS including immediate support.",
+            "required": true,
+            "addedAt": 1760494832327,
+            "sortOrder": 0
           }
         ]
       }
     ],
     "created": 1760492232638,
     "versionHistory": [
+      {
+        "hash": "5dv8al-2025-10-15",
+        "timestamp": 1760494740057,
+        "stepCount": 5,
+        "bookmarkCount": 9,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "7avzrz-2025-10-15",
+        "timestamp": 1760494506501,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "51toeq-2025-10-15",
+        "timestamp": 1760494494839,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "xkh45z-2025-10-15",
+        "timestamp": 1760494194032,
+        "stepCount": 4,
+        "bookmarkCount": 6,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "o8sxww-2025-10-15",
         "timestamp": 1760493745507,
@@ -142,30 +228,16 @@
         "stepCount": 1,
         "bookmarkCount": 3,
         "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "rhg9p7-2025-10-15",
-        "timestamp": 1760492439155,
-        "stepCount": 1,
-        "bookmarkCount": 0,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "ipods2-2025-10-15",
-        "timestamp": 1760492232638,
-        "stepCount": 0,
-        "bookmarkCount": 0,
-        "modifiedBy": "allanhaggett"
       }
     ],
-    "version": "o8sxww-2025-10-15",
-    "lastUpdated": 1760493745507,
+    "version": "5dv8al-2025-10-15",
+    "lastUpdated": 1760494832328,
     "modifiedBy": "allanhaggett",
     "createdBy": "allanhaggett",
     "id": "1760492232638",
     "sortOrder": 0,
     "createdDate": "2025-10-15T01:37:12.638Z",
-    "modifiedDate": "2025-10-15T02:02:25.512Z",
+    "modifiedDate": "2025-10-15T02:20:32.330Z",
     "title": "CLB Full-Stack Developer Resources"
   }
 ]
