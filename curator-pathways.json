@@ -95,12 +95,23 @@
             "required": true,
             "addedAt": 1760493730529,
             "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/4",
+            "title": "GitHub Project · LearningHUB",
+            "description": "GitHub Projects are where the planning and development progress tracking happen.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "We use a kanban-style system to work in the spirit of agile without much of the dogma.",
+            "required": true,
+            "addedAt": 1760494586220,
+            "sortOrder": 1
           }
         ]
       },
       {
         "name": "PSA Moodle",
-        "objective": "Our Moodle installation that we manage ourselves on OpenShift.",
+        "objective": "Our Moodle installation that we manage ourselves on OpenShift. It integrates with PeopleSoft ELM for enrolment and registration via a custom plugin.",
         "pauseAndReflect": "",
         "bookmarks": [
           {
@@ -113,12 +124,62 @@
             "required": true,
             "addedAt": 1760494295879,
             "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
+            "title": "GitHiub Project · PSA Moodle",
+            "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "The main project place.",
+            "required": true,
+            "addedAt": 1760494704189,
+            "sortOrder": 1
+          }
+        ]
+      },
+      {
+        "name": "Other Places",
+        "objective": "Random assortment of links you will find useful.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://chat.developer.gov.bc.ca/home",
+            "title": "RocketChat - BCDevXHQ",
+            "description": "The place where discussion on the OpenShift platform takes place.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "Anything OS including immediate support.",
+            "required": true,
+            "addedAt": 1760494832327,
+            "sortOrder": 0
           }
         ]
       }
     ],
     "created": 1760492232638,
     "versionHistory": [
+      {
+        "hash": "5dv8al-2025-10-15",
+        "timestamp": 1760494740057,
+        "stepCount": 5,
+        "bookmarkCount": 9,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "7avzrz-2025-10-15",
+        "timestamp": 1760494506501,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "51toeq-2025-10-15",
+        "timestamp": 1760494494839,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "xkh45z-2025-10-15",
         "timestamp": 1760494194032,
@@ -167,30 +228,16 @@
         "stepCount": 1,
         "bookmarkCount": 3,
         "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "rhg9p7-2025-10-15",
-        "timestamp": 1760492439155,
-        "stepCount": 1,
-        "bookmarkCount": 0,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "ipods2-2025-10-15",
-        "timestamp": 1760492232638,
-        "stepCount": 0,
-        "bookmarkCount": 0,
-        "modifiedBy": "allanhaggett"
       }
     ],
-    "version": "xkh45z-2025-10-15",
-    "lastUpdated": 1760494295879,
+    "version": "5dv8al-2025-10-15",
+    "lastUpdated": 1760494832328,
     "modifiedBy": "allanhaggett",
     "createdBy": "allanhaggett",
     "id": "1760492232638",
     "sortOrder": 0,
     "createdDate": "2025-10-15T01:37:12.638Z",
-    "modifiedDate": "2025-10-15T02:11:35.884Z",
+    "modifiedDate": "2025-10-15T02:20:32.330Z",
     "title": "CLB Full-Stack Developer Resources"
   },
   {
@@ -792,7 +839,7 @@
     "topic": "House of Indigenous Learning",
     "sortOrder": 1,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-10-15T02:11:35.885Z",
+    "modifiedDate": "2025-10-15T02:20:32.331Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -993,7 +1040,7 @@
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-10-15T02:11:35.885Z",
+    "modifiedDate": "2025-10-15T02:20:32.332Z",
     "title": "The Ability to Access",
     "sortOrder": 2
   },
@@ -1576,7 +1623,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-10-15T02:11:35.886Z",
+    "modifiedDate": "2025-10-15T02:20:32.332Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -2413,7 +2460,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-10-15T02:11:35.886Z",
+    "modifiedDate": "2025-10-15T02:20:32.332Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 4,
     "createdBy": "Unknown"
@@ -3309,7 +3356,7 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-10-15T02:11:35.889Z",
+    "modifiedDate": "2025-10-15T02:20:32.333Z",
     "title": "Full Stack Developer",
     "sortOrder": 5
   }
