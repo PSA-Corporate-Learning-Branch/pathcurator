@@ -1,5 +1,174 @@
 [
   {
+    "name": "CLB Full-Stack Developer Resources",
+    "description": "Valuable links for each of the projects we're on.",
+    "contentWarning": "",
+    "acknowledgments": "",
+    "steps": [
+      {
+        "name": "GitHub",
+        "objective": "GitHub is owned by Microsoft and is tightly integrated into everything we do. While that is the case, GitHub doesn't have Single-Sign On with your BC Gov account. You'll need to create a GitHub account and ensure it has Multi-Factor Authentication turned on in order to join to requisite organizations to make contributions.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov",
+            "title": "B.C. government DevHub | Application developer guide | Use Github In Bcgov | Bc Government Organizations In Github",
+            "description": "The B.C. government DevHub is a place to access common technical documentation, community knowledge bases, code samples and APIs.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "Create an account, get joined to the \"BCGov\" GitHub org.",
+            "required": true,
+            "addedAt": 1760493167535,
+            "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/bcgov",
+            "title": "bcgov",
+            "description": "This is the home for code that is open. bcgov has 2435 repositories available. Follow their code on GitHub.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "The primary BCGOV organization on GitHub. You need to be a member here if you want to make contributions to our open source projects that reside on OpenShift.",
+            "required": true,
+            "addedAt": 1760493583198,
+            "sortOrder": 1
+          }
+        ]
+      },
+      {
+        "name": "LSApp",
+        "objective": "Learning Support Administration Application is the \"middleware\" of Corporate Learning. It contains the canonical list of corporate learning courses and a growing list of the associated metadata that supports delivery and maintenance of the catalogue. From partnership information to class sizes and enrolment info, LSApp has answers to many of your questions.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://gww.bcpublicservice.gov.bc.ca/lsapp/dashboard.php",
+            "title": "LSApp (Learning Support Admin Application)",
+            "description": "LSApp (Learning Support Admin Application) acts as middleware between the many different learning systems that CLB deals with.",
+            "type": "resource",
+            "contentType": "participate",
+            "context": "The application itself. You need an IDIR to request access.",
+            "required": true,
+            "addedAt": 1760492852546,
+            "sortOrder": 0
+          },
+          {
+            "title": "GitHub Project · LSApp",
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/5/views/1",
+            "description": "The main organizational project management interface. All application level changes go through this project using GitHub issues to tie changes to code.",
+            "context": "This is where to go to create issues and look at the state of the project.",
+            "type": "Required",
+            "required": true,
+            "contentType": "Participate",
+            "added": 1760492905034,
+            "lastChecked": null,
+            "redirectUrl": null,
+            "checkError": null,
+            "sortOrder": 1
+          },
+          {
+            "title": "PSA-Corporate-Learning-Branch/lsapp: LSApp (Learning Support Admin Application)",
+            "url": "https://github.com/PSA-Corporate-Learning-Branch/lsapp",
+            "description": "LSApp (Learning Support Admin Application) acts as middleware between the many different learning systems that CLB deals with. - PSA-Corporate-Learning-Branch/lsapp",
+            "context": "The primary repository for the code.",
+            "type": "Required",
+            "required": true,
+            "contentType": "Participate",
+            "added": 1760492886114,
+            "lastChecked": null,
+            "redirectUrl": null,
+            "checkError": null,
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "name": "LearningHUB",
+        "objective": "The PSA Corporate Learning Branch and its partners offer hundreds of courses, available to all BCPS employees. The LearningHUB is the place to see that full catalogue of corporate offerings.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://corporatelearning.gww.gov.bc.ca/learninghub/",
+            "title": "Home | LearningHUB",
+            "description": "The PSA Corporate Learning Branch and its partners offer hundreds of courses, available to all BCPS employees. The LearningHUB is the place to see that full catalogue of corporate offerings.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "The site itself. Runs on WordPress, which is on OpenShift but is not under our control. Not sure who actually controls it these days. itservicerequest@gov.bc.ca for support.",
+            "required": true,
+            "addedAt": 1760493730529,
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "created": 1760492232638,
+    "versionHistory": [
+      {
+        "hash": "o8sxww-2025-10-15",
+        "timestamp": 1760493745507,
+        "stepCount": 3,
+        "bookmarkCount": 6,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "1luy4d-2025-10-15",
+        "timestamp": 1760493659245,
+        "stepCount": 3,
+        "bookmarkCount": 5,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "5rqcqe-2025-10-15",
+        "timestamp": 1760493068117,
+        "stepCount": 2,
+        "bookmarkCount": 3,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "9v4srp-2025-10-15",
+        "timestamp": 1760492921228,
+        "stepCount": 1,
+        "bookmarkCount": 3,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "3wwuht-2025-10-15",
+        "timestamp": 1760492905034,
+        "stepCount": 1,
+        "bookmarkCount": 3,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "43ycrp-2025-10-15",
+        "timestamp": 1760492886114,
+        "stepCount": 1,
+        "bookmarkCount": 3,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "rhg9p7-2025-10-15",
+        "timestamp": 1760492439155,
+        "stepCount": 1,
+        "bookmarkCount": 0,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "ipods2-2025-10-15",
+        "timestamp": 1760492232638,
+        "stepCount": 0,
+        "bookmarkCount": 0,
+        "modifiedBy": "allanhaggett"
+      }
+    ],
+    "version": "o8sxww-2025-10-15",
+    "lastUpdated": 1760493745507,
+    "modifiedBy": "allanhaggett",
+    "createdBy": "allanhaggett",
+    "id": "1760492232638",
+    "sortOrder": 0,
+    "createdDate": "2025-10-15T01:37:12.638Z",
+    "modifiedDate": "2025-10-15T02:02:25.512Z",
+    "title": "CLB Full-Stack Developer Resources"
+  },
+  {
     "acknowledgments": null,
     "contentWarning": null,
     "created": 1674278041000,
@@ -596,9 +765,9 @@
       "House of Indigenous Learning"
     ],
     "topic": "House of Indigenous Learning",
-    "sortOrder": 0,
+    "sortOrder": 1,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-10-09T17:38:20.894Z",
+    "modifiedDate": "2025-10-15T02:02:25.513Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -799,9 +968,9 @@
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-10-09T17:38:20.894Z",
+    "modifiedDate": "2025-10-15T02:02:25.513Z",
     "title": "The Ability to Access",
-    "sortOrder": 1
+    "sortOrder": 2
   },
   {
     "acknowledgments": "",
@@ -1382,7 +1551,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-10-09T17:38:20.895Z",
+    "modifiedDate": "2025-10-15T02:02:25.513Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -1424,7 +1593,7 @@
     "version": "27ts27-2025-09-21",
     "modifiedBy": "Unknown",
     "createdBy": "itr8tech",
-    "sortOrder": 2
+    "sortOrder": 3
   },
   {
     "acknowledgments": "The Corporate Learning Branch would like to acknowledge the support we received from many of our colleagues and partners in multiple branches/ministries during the development of this learning resource. We also appreciate the invaluable comments we received during our engagement sessions.\n\nIn particular, our sincere thanks go out to colleagues and partners at the following entities:\n\n* Policy & Legislation, BC Data Service, CITZ\n* Multiculturalism & Anti-Racism Branch, AG\n* PSA REDI, Policy and Employee Relations\n* SDPR Inclusion, Diversity and Cultural Safety (IDCS) & Anti-Racism 101 course\n* BIPOC Employee Resource Group\n* Indigenous Employees Network",
@@ -2219,9 +2388,9 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-10-09T17:38:20.896Z",
+    "modifiedDate": "2025-10-15T02:02:25.513Z",
     "title": "Anti-Racism in the BC Public Service",
-    "sortOrder": 3,
+    "sortOrder": 4,
     "createdBy": "Unknown"
   },
   {
@@ -3115,9 +3284,9 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-10-09T17:38:20.896Z",
+    "modifiedDate": "2025-10-15T02:02:25.514Z",
     "title": "Full Stack Developer",
-    "sortOrder": 4
+    "sortOrder": 5
   },
   {
     "name": "Tech and Dev CoP Resources",
@@ -3140,7 +3309,7 @@
     "modifiedBy": "bcgov-noris",
     "createdBy": "bcgov-noris",
     "id": "1758652822744",
-    "sortOrder": 5,
+    "sortOrder": 6,
     "createdDate": "2025-09-23T18:40:22.744Z",
     "modifiedDate": "2025-09-23T18:40:23.015Z",
     "title": "Tech and Dev CoP Resources"
