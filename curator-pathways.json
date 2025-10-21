@@ -31,6 +31,17 @@
             "required": true,
             "addedAt": 1760493583198,
             "sortOrder": 1
+          },
+          {
+            "url": "https://github.com/PSA-Corporate-Learning-Branch",
+            "title": "PSA Corporate Learning Branch",
+            "description": "The CLB leads the frameworks for learning and leadership development for all BCPS employees in partnership with the PSA and ministry business owners. - PSA Corporate Learning Branch",
+            "type": "resource",
+            "contentType": "read",
+            "context": "This is where all of our repositories live, particularly the private ones. Please request membership!",
+            "required": true,
+            "addedAt": 1761071294740,
+            "sortOrder": 2
           }
         ]
       },
@@ -135,6 +146,20 @@
             "required": true,
             "addedAt": 1760494704189,
             "sortOrder": 1
+          },
+          {
+            "title": "PSA-Corporate-Learning-Branch/PSAELMSync",
+            "url": "https://github.com/PSA-Corporate-Learning-Branch/psaelmsync",
+            "description": "PSALS Sync is a Moodle plugin that reads course enrolment data sent by ELM and sends completion data back.",
+            "context": "The glue that ties ELM and PSA Moodle together, from enrolment to completion.",
+            "type": "Required",
+            "required": true,
+            "contentType": "",
+            "added": 1761071430952,
+            "lastChecked": null,
+            "redirectUrl": null,
+            "checkError": null,
+            "sortOrder": 2
           }
         ]
       },
@@ -153,12 +178,30 @@
             "required": true,
             "addedAt": 1760494832327,
             "sortOrder": 0
+          },
+          {
+            "url": "https://thenounproject.com/?utm_campaign=22235953-Newsletter | Edit Mode | FY26&utm_medium=email&_hsenc=p2ANqtz-_gxJlhJjFSzpEC1jg8J6Y3fVmwnLM9nYHvl_Pn3G_k7t0N-Oyo0DFqy_OTDdEQrCf73-2zce-o3Ym1cO0hRPUGvRU8ow&_hsmi=386016512&utm_content=385942453&utm_source=hs_email",
+            "title": "8M+ Free Icons & Stock Photos | SVG & PNG | Download Today",
+            "description": "🎨 Discover 8M+ high-quality SVG & PNG icons & stock photos for your next project. 🔍 Find the perfect icon or photo in seconds!",
+            "type": "resource",
+            "contentType": "read",
+            "context": "When you need assets like placeholder images or icons, this is a fantastic resource.",
+            "required": false,
+            "addedAt": 1761071201545,
+            "sortOrder": 1
           }
         ]
       }
     ],
     "created": 1760492232638,
     "versionHistory": [
+      {
+        "hash": "wvhn2i-2025-10-21",
+        "timestamp": 1761071430952,
+        "stepCount": 5,
+        "bookmarkCount": 13,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "5dv8al-2025-10-15",
         "timestamp": 1760494740057,
@@ -221,23 +264,16 @@
         "stepCount": 1,
         "bookmarkCount": 3,
         "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "43ycrp-2025-10-15",
-        "timestamp": 1760492886114,
-        "stepCount": 1,
-        "bookmarkCount": 3,
-        "modifiedBy": "allanhaggett"
       }
     ],
-    "version": "5dv8al-2025-10-15",
-    "lastUpdated": 1760494832328,
+    "version": "wvhn2i-2025-10-21",
+    "lastUpdated": 1761071430952,
     "modifiedBy": "allanhaggett",
     "createdBy": "allanhaggett",
     "id": "1760492232638",
     "sortOrder": 0,
     "createdDate": "2025-10-15T01:37:12.638Z",
-    "modifiedDate": "2025-10-15T02:20:32.330Z",
+    "modifiedDate": "2025-10-21T18:30:31.077Z",
     "title": "CLB Full-Stack Developer Resources"
   },
   {
@@ -839,7 +875,7 @@
     "topic": "House of Indigenous Learning",
     "sortOrder": 1,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-10-15T02:20:32.331Z",
+    "modifiedDate": "2025-10-21T18:30:31.077Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -1040,7 +1076,7 @@
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-10-15T02:20:32.332Z",
+    "modifiedDate": "2025-10-21T18:30:31.078Z",
     "title": "The Ability to Access",
     "sortOrder": 2
   },
@@ -1623,7 +1659,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-10-15T02:20:32.332Z",
+    "modifiedDate": "2025-10-21T18:30:31.078Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -2460,7 +2496,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-10-15T02:20:32.332Z",
+    "modifiedDate": "2025-10-21T18:30:31.079Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 4,
     "createdBy": "Unknown"
@@ -3356,7 +3392,7 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-10-15T02:20:32.333Z",
+    "modifiedDate": "2025-10-21T18:30:31.079Z",
     "title": "Full Stack Developer",
     "sortOrder": 5
   }
