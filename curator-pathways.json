@@ -6,46 +6,6 @@
     "acknowledgments": "",
     "steps": [
       {
-        "name": "GitHub",
-        "objective": "GitHub is owned by Microsoft and is tightly integrated into everything we do. While that is the case, GitHub doesn't have Single-Sign On with your BC Gov account. You'll need to create a GitHub account and ensure it has Multi-Factor Authentication turned on in order to join to requisite organizations to make contributions.",
-        "pauseAndReflect": "",
-        "bookmarks": [
-          {
-            "url": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov",
-            "title": "B.C. government DevHub | Application developer guide | Use Github In Bcgov | Bc Government Organizations In Github",
-            "description": "The B.C. government DevHub is a place to access common technical documentation, community knowledge bases, code samples and APIs.",
-            "type": "resource",
-            "contentType": "read",
-            "context": "Create an account, get joined to the \"BCGov\" GitHub org.",
-            "required": true,
-            "addedAt": 1760493167535,
-            "sortOrder": 0
-          },
-          {
-            "url": "https://github.com/bcgov",
-            "title": "bcgov",
-            "description": "This is the home for code that is open. bcgov has 2435 repositories available. Follow their code on GitHub.",
-            "type": "resource",
-            "contentType": "read",
-            "context": "The primary BCGOV organization on GitHub. You need to be a member here if you want to make contributions to our open source projects that reside on OpenShift.",
-            "required": true,
-            "addedAt": 1760493583198,
-            "sortOrder": 1
-          },
-          {
-            "url": "https://github.com/PSA-Corporate-Learning-Branch",
-            "title": "PSA Corporate Learning Branch",
-            "description": "The CLB leads the frameworks for learning and leadership development for all BCPS employees in partnership with the PSA and ministry business owners. - PSA Corporate Learning Branch",
-            "type": "resource",
-            "contentType": "read",
-            "context": "This is where all of our repositories live, particularly the private ones. Please request membership!",
-            "required": true,
-            "addedAt": 1761071294740,
-            "sortOrder": 2
-          }
-        ]
-      },
-      {
         "name": "LSApp",
         "objective": "Learning Support Administration Application is the \"middleware\" of Corporate Learning. It contains the canonical list of corporate learning courses and a growing list of the associated metadata that supports delivery and maintenance of the catalogue. From partnership information to class sizes and enrolment info, LSApp has answers to many of your questions.",
         "pauseAndReflect": "",
@@ -87,6 +47,46 @@
             "lastChecked": null,
             "redirectUrl": null,
             "checkError": null,
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "name": "GitHub",
+        "objective": "GitHub is owned by Microsoft and is tightly integrated into everything we do. While that is the case, GitHub doesn't have Single-Sign On with your BC Gov account. You'll need to create a GitHub account and ensure it has Multi-Factor Authentication turned on in order to join to requisite organizations to make contributions.",
+        "pauseAndReflect": "",
+        "bookmarks": [
+          {
+            "url": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov",
+            "title": "B.C. government DevHub | Application developer guide | Use Github In Bcgov | Bc Government Organizations In Github",
+            "description": "The B.C. government DevHub is a place to access common technical documentation, community knowledge bases, code samples and APIs.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "Create an account, get joined to the \"BCGov\" GitHub org.",
+            "required": true,
+            "addedAt": 1760493167535,
+            "sortOrder": 0
+          },
+          {
+            "url": "https://github.com/bcgov",
+            "title": "bcgov",
+            "description": "This is the home for code that is open. bcgov has 2435 repositories available. Follow their code on GitHub.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "The primary BCGOV organization on GitHub. You need to be a member here if you want to make contributions to our open source projects that reside on OpenShift.",
+            "required": true,
+            "addedAt": 1760493583198,
+            "sortOrder": 1
+          },
+          {
+            "url": "https://github.com/PSA-Corporate-Learning-Branch",
+            "title": "PSA Corporate Learning Branch",
+            "description": "The CLB leads the frameworks for learning and leadership development for all BCPS employees in partnership with the PSA and ministry business owners. - PSA Corporate Learning Branch",
+            "type": "resource",
+            "contentType": "read",
+            "context": "This is where all of our repositories live, particularly the private ones. Please request membership!",
+            "required": true,
+            "addedAt": 1761071294740,
             "sortOrder": 2
           }
         ]
@@ -189,12 +189,44 @@
             "required": false,
             "addedAt": 1761071201545,
             "sortOrder": 1
+          },
+          {
+            "url": "https://registry.developer.gov.bc.ca/login",
+            "title": "B.C. Gov's Platform Product Registry",
+            "description": "Manage your applications on the Private Cloud OpenShift platform and the Public Cloud Landing Zone.",
+            "type": "resource",
+            "contentType": "read",
+            "context": "Where you go to manage namespaces and access to them.",
+            "required": true,
+            "addedAt": 1761862930578,
+            "sortOrder": 2
           }
         ]
       }
     ],
     "created": 1760492232638,
     "versionHistory": [
+      {
+        "hash": "95vire-2025-10-30",
+        "timestamp": 1761862964303,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "3jde1u-2025-10-30",
+        "timestamp": 1761862958961,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "95vire-2025-10-30",
+        "timestamp": 1761862951886,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "wvhn2i-2025-10-21",
         "timestamp": 1761071430952,
@@ -243,37 +275,16 @@
         "stepCount": 3,
         "bookmarkCount": 5,
         "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "5rqcqe-2025-10-15",
-        "timestamp": 1760493068117,
-        "stepCount": 2,
-        "bookmarkCount": 3,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "9v4srp-2025-10-15",
-        "timestamp": 1760492921228,
-        "stepCount": 1,
-        "bookmarkCount": 3,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "3wwuht-2025-10-15",
-        "timestamp": 1760492905034,
-        "stepCount": 1,
-        "bookmarkCount": 3,
-        "modifiedBy": "allanhaggett"
       }
     ],
-    "version": "wvhn2i-2025-10-21",
-    "lastUpdated": 1761071430952,
+    "version": "95vire-2025-10-30",
+    "lastUpdated": 1761862964303,
     "modifiedBy": "allanhaggett",
     "createdBy": "allanhaggett",
     "id": "1760492232638",
     "sortOrder": 0,
     "createdDate": "2025-10-15T01:37:12.638Z",
-    "modifiedDate": "2025-10-21T18:30:31.077Z",
+    "modifiedDate": "2025-10-30T22:22:44.312Z",
     "title": "CLB Full-Stack Developer Resources"
   },
   {
@@ -875,7 +886,7 @@
     "topic": "House of Indigenous Learning",
     "sortOrder": 1,
     "createdDate": "2023-01-21T05:14:01.000Z",
-    "modifiedDate": "2025-10-21T18:30:31.077Z",
+    "modifiedDate": "2025-10-30T22:22:44.313Z",
     "title": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act",
     "versionHistory": [
       {
@@ -1076,7 +1087,7 @@
     "createdBy": "Unknown",
     "id": "1755290377619",
     "createdDate": "2025-08-15T20:39:37.619Z",
-    "modifiedDate": "2025-10-21T18:30:31.078Z",
+    "modifiedDate": "2025-10-30T22:22:44.313Z",
     "title": "The Ability to Access",
     "sortOrder": 2
   },
@@ -1659,7 +1670,7 @@
     ],
     "topic": "Respectful Workplace",
     "createdDate": "2024-06-15T04:17:27.000Z",
-    "modifiedDate": "2025-10-21T18:30:31.078Z",
+    "modifiedDate": "2025-10-30T22:22:44.313Z",
     "title": "Respectful Workplace",
     "versionHistory": [
       {
@@ -2496,7 +2507,7 @@
     ],
     "id": "1746165855980",
     "createdDate": "2025-05-02T06:04:15.980Z",
-    "modifiedDate": "2025-10-21T18:30:31.079Z",
+    "modifiedDate": "2025-10-30T22:22:44.314Z",
     "title": "Anti-Racism in the BC Public Service",
     "sortOrder": 4,
     "createdBy": "Unknown"
@@ -3392,7 +3403,7 @@
     "createdBy": "allanhaggett",
     "id": "1746391996332",
     "createdDate": "2025-05-04T20:53:16.332Z",
-    "modifiedDate": "2025-10-21T18:30:31.079Z",
+    "modifiedDate": "2025-10-30T22:22:44.314Z",
     "title": "Full Stack Developer",
     "sortOrder": 5
   }
