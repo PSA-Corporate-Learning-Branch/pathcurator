@@ -8,12 +8,19 @@
     "acknowledgments": "",
     "sort_order": 0,
     "created_at": 1760492232638,
-    "last_updated": 1784332221924,
-    "version": "b662e3-2026-07-17",
+    "last_updated": 1784332565402,
+    "version": "26ef7b-2026-07-17",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
+      {
+        "hash": "26ef7b-2026-07-17",
+        "timestamp": 1784332597100,
+        "stepCount": 5,
+        "bookmarkCount": 15,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "b662e3-2026-07-17",
         "timestamp": 1784332394600,
@@ -76,13 +83,6 @@
         "stepCount": 4,
         "bookmarkCount": 6,
         "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "o8sxww-2025-10-15",
-        "timestamp": 1760493745507,
-        "stepCount": 3,
-        "bookmarkCount": 6,
-        "modifiedBy": "allanhaggett"
       }
     ],
     "extra": {},
@@ -135,7 +135,7 @@
             "title": "LSApp 50000",
             "url": "https://github.com/psa-corporate-learning-branch/lsapp5000",
             "url_norm": "https://github.com/psa-corporate-learning-branch/lsapp5000",
-            "description": "",
+            "description": "The main repo.",
             "context": "",
             "required": 1,
             "content_type": "Read",
