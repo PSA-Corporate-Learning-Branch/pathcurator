@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "pathway": {
+    "id": "1760492232638",
+    "name": "CLB Full-Stack Developer Resources",
+    "description": "Valuable links for each of the projects we're on.",
+    "content_warning": "",
+    "acknowledgments": "",
+    "sort_order": 0,
+    "created_at": 1760492232638,
+    "last_updated": 1784332221924,
+    "version": "b662e3-2026-07-17",
+    "created_by": "allanhaggett",
+    "modified_by": "allanhaggett",
+    "header_image": null,
+    "version_history": [
+      {
+        "hash": "b662e3-2026-07-17",
+        "timestamp": 1784332394600,
+        "stepCount": 5,
+        "bookmarkCount": 15,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "95vire-2025-10-30",
+        "timestamp": 1761862964303,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "3jde1u-2025-10-30",
+        "timestamp": 1761862958961,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "95vire-2025-10-30",
+        "timestamp": 1761862951886,
+        "stepCount": 5,
+        "bookmarkCount": 14,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "wvhn2i-2025-10-21",
+        "timestamp": 1761071430952,
+        "stepCount": 5,
+        "bookmarkCount": 13,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "5dv8al-2025-10-15",
+        "timestamp": 1760494740057,
+        "stepCount": 5,
+        "bookmarkCount": 9,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "7avzrz-2025-10-15",
+        "timestamp": 1760494506501,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "51toeq-2025-10-15",
+        "timestamp": 1760494494839,
+        "stepCount": 4,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "xkh45z-2025-10-15",
+        "timestamp": 1760494194032,
+        "stepCount": 4,
+        "bookmarkCount": 6,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "o8sxww-2025-10-15",
+        "timestamp": 1760493745507,
+        "stepCount": 3,
+        "bookmarkCount": 6,
+        "modifiedBy": "allanhaggett"
+      }
+    ],
+    "extra": {},
+    "steps": [
+      {
+        "id": "1760492232638-s0",
+        "name": "LSApp",
+        "objective": "Learning Support Administration Application is the \"middleware\" of Corporate Learning. It contains the canonical list of corporate learning courses and a growing list of the associated metadata that supports delivery and maintenance of the catalogue. From partnership information to class sizes and enrolment info, LSApp has answers to many of your questions.",
+        "pause_and_reflect": "",
+        "sort_order": 0,
+        "bookmarks": [
+          {
+            "id": "1760492232638-s0-b0",
+            "title": "LSApp (Learning Support Admin Application)",
+            "url": "https://gww.bcpublicservice.gov.bc.ca/lsapp/dashboard.php",
+            "url_norm": "https://gww.bcpublicservice.gov.bc.ca/lsapp/dashboard.php",
+            "description": "LSApp (Learning Support Admin Application) acts as middleware between the many different learning systems that CLB deals with.",
+            "context": "The application itself. You need an IDIR to request access.",
+            "required": 1,
+            "content_type": "Participate",
+            "added_at": 1760492852546,
+            "sort_order": 0
+          },
+          {
+            "id": "1760492232638-s0-b1",
+            "title": "GitHub Project · LSApp",
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/5/views/1",
+            "url_norm": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/5/views/1",
+            "description": "The main organizational project management interface. All application level changes go through this project using GitHub issues to tie changes to code.",
+            "context": "This is where to go to create issues and look at the state of the project.",
+            "required": 1,
+            "content_type": "Participate",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1760492232638-s0-b2",
+            "title": "PSA-Corporate-Learning-Branch/lsapp: LSApp (Learning Support Admin Application)",
+            "url": "https://github.com/PSA-Corporate-Learning-Branch/lsapp",
+            "url_norm": "https://github.com/PSA-Corporate-Learning-Branch/lsapp",
+            "description": "LSApp (Learning Support Admin Application) acts as middleware between the many different learning systems that CLB deals with. - PSA-Corporate-Learning-Branch/lsapp",
+            "context": "The primary repository for the code.",
+            "required": 1,
+            "content_type": "Participate",
+            "added_at": null,
+            "sort_order": 2
+          },
+          {
+            "id": "0b066b46-22a4-4be8-b734-ef5deefe4482",
+            "title": "LSApp 50000",
+            "url": "https://github.com/psa-corporate-learning-branch/lsapp5000",
+            "url_norm": "https://github.com/psa-corporate-learning-branch/lsapp5000",
+            "description": "",
+            "context": "",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1784332221918,
+            "sort_order": 3
+          }
+        ]
+      },
+      {
+        "id": "1760492232638-s1",
+        "name": "GitHub",
+        "objective": "GitHub is owned by Microsoft and is tightly integrated into everything we do. While that is the case, GitHub doesn't have Single-Sign On with your BC Gov account. You'll need to create a GitHub account and ensure it has Multi-Factor Authentication turned on in order to join to requisite organizations to make contributions.",
+        "pause_and_reflect": "",
+        "sort_order": 1,
+        "bookmarks": [
+          {
+            "id": "1760492232638-s1-b2",
+            "title": "PSA Corporate Learning Branch",
+            "url": "https://github.com/PSA-Corporate-Learning-Branch",
+            "url_norm": "https://github.com/PSA-Corporate-Learning-Branch",
+            "description": "The CLB leads the frameworks for learning and leadership development for all BCPS employees in partnership with the PSA and ministry business owners. - PSA Corporate Learning Branch",
+            "context": "This is where all of our repositories live, particularly the private ones. Please request membership!",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1761071294740,
+            "sort_order": 0
+          },
+          {
+            "id": "1760492232638-s1-b0",
+            "title": "B.C. government DevHub | Application developer guide | Use Github In Bcgov | Bc Government Organizations In Github",
+            "url": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov",
+            "url_norm": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github",
+            "description": "The B.C. government DevHub is a place to access common technical documentation, community knowledge bases, code samples and APIs.",
+            "context": "Create an account, get joined to the \"BCGov\" GitHub org.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760493167535,
+            "sort_order": 1
+          },
+          {
+            "id": "1760492232638-s1-b1",
+            "title": "bcgov",
+            "url": "https://github.com/bcgov",
+            "url_norm": "https://github.com/bcgov",
+            "description": "This is the home for code that is open. bcgov has 2435 repositories available. Follow their code on GitHub.",
+            "context": "The primary BCGOV organization on GitHub. You need to be a member here if you want to make contributions to our open source projects that reside on OpenShift.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760493583198,
+            "sort_order": 2
+          }
+        ]
+      },
+      {
+        "id": "1760492232638-s2",
+        "name": "LearningHUB",
+        "objective": "The PSA Corporate Learning Branch and its partners offer hundreds of courses, available to all BCPS employees. The LearningHUB is the place to see that full catalogue of corporate offerings.",
+        "pause_and_reflect": "",
+        "sort_order": 2,
+        "bookmarks": [
+          {
+            "id": "1760492232638-s2-b0",
+            "title": "Home | LearningHUB",
+            "url": "https://corporatelearning.gww.gov.bc.ca/learninghub/",
+            "url_norm": "https://corporatelearning.gww.gov.bc.ca/learninghub",
+            "description": "The PSA Corporate Learning Branch and its partners offer hundreds of courses, available to all BCPS employees. The LearningHUB is the place to see that full catalogue of corporate offerings.",
+            "context": "The site itself. Runs on WordPress, which is on OpenShift but is not under our control. Not sure who actually controls it these days. itservicerequest@gov.bc.ca for support.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760493730529,
+            "sort_order": 0
+          },
+          {
+            "id": "1760492232638-s2-b1",
+            "title": "GitHub Project · LearningHUB",
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/4",
+            "url_norm": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/4",
+            "description": "GitHub Projects are where the planning and development progress tracking happen.",
+            "context": "We use a kanban-style system to work in the spirit of agile without much of the dogma.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760494586220,
+            "sort_order": 1
+          }
+        ]
+      },
+      {
+        "id": "1760492232638-s3",
+        "name": "PSA Moodle",
+        "objective": "Our Moodle installation that we manage ourselves on OpenShift. It integrates with PeopleSoft ELM for enrolment and registration via a custom plugin.",
+        "pause_and_reflect": "",
+        "sort_order": 3,
+        "bookmarks": [
+          {
+            "id": "1760492232638-s3-b0",
+            "title": "bcgov/moodle-nginx at dev",
+            "url": "https://github.com/bcgov/moodle-nginx/tree/dev",
+            "url_norm": "https://github.com/bcgov/moodle-nginx/tree/dev",
+            "description": "Moodle Open-source Learning Management System with OpenShift build using ngnix, mariadb, php-fpm, redis, cron - bcgov/moodle-nginx at dev",
+            "context": "There's a whole lot goin' on in here. High-availability is complicated.",
+            "required": 1,
+            "content_type": "Participate",
+            "added_at": 1760494295879,
+            "sort_order": 0
+          },
+          {
+            "id": "1760492232638-s3-b1",
+            "title": "GitHiub Project · PSA Moodle",
+            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
+            "url_norm": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
+            "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
+            "context": "The main project place.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760494704189,
+            "sort_order": 1
+          },
+          {
+            "id": "1760492232638-s3-b2",
+            "title": "PSA-Corporate-Learning-Branch/PSAELMSync",
+            "url": "https://github.com/PSA-Corporate-Learning-Branch/psaelmsync",
+            "url_norm": "https://github.com/PSA-Corporate-Learning-Branch/psaelmsync",
+            "description": "PSALS Sync is a Moodle plugin that reads course enrolment data sent by ELM and sends completion data back.",
+            "context": "The glue that ties ELM and PSA Moodle together, from enrolment to completion.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          }
+        ]
+      },
+      {
+        "id": "1760492232638-s4",
+        "name": "Other Places",
+        "objective": "Random assortment of links you will find useful.",
+        "pause_and_reflect": "",
+        "sort_order": 4,
+        "bookmarks": [
+          {
+            "id": "1760492232638-s4-b0",
+            "title": "RocketChat - BCDevXHQ",
+            "url": "https://chat.developer.gov.bc.ca/home",
+            "url_norm": "https://chat.developer.gov.bc.ca/home",
+            "description": "The place where discussion on the OpenShift platform takes place.",
+            "context": "Anything OS including immediate support.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760494832327,
+            "sort_order": 0
+          },
+          {
+            "id": "1760492232638-s4-b1",
+            "title": "8M+ Free Icons & Stock Photos | SVG & PNG | Download Today",
+            "url": "https://thenounproject.com/?utm_campaign=22235953-Newsletter | Edit Mode | FY26&utm_medium=email&_hsenc=p2ANqtz-_gxJlhJjFSzpEC1jg8J6Y3fVmwnLM9nYHvl_Pn3G_k7t0N-Oyo0DFqy_OTDdEQrCf73-2zce-o3Ym1cO0hRPUGvRU8ow&_hsmi=386016512&utm_content=385942453&utm_source=hs_email",
+            "url_norm": "https://thenounproject.com/?utm_campaign=22235953-Newsletter%20|%20Edit%20Mode%20|%20FY26&utm_medium=email&_hsenc=p2ANqtz-_gxJlhJjFSzpEC1jg8J6Y3fVmwnLM9nYHvl_Pn3G_k7t0N-Oyo0DFqy_OTDdEQrCf73-2zce-o3Ym1cO0hRPUGvRU8ow&_hsmi=386016512&utm_content=385942453&utm_source=hs_email",
+            "description": "🎨 Discover 8M+ high-quality SVG & PNG icons & stock photos for your next project. 🔍 Find the perfect icon or photo in seconds!",
+            "context": "When you need assets like placeholder images or icons, this is a fantastic resource.",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": 1761071201545,
+            "sort_order": 1
+          },
+          {
+            "id": "1760492232638-s4-b2",
+            "title": "B.C. Gov's Platform Product Registry",
+            "url": "https://registry.developer.gov.bc.ca/login",
+            "url_norm": "https://registry.developer.gov.bc.ca/login",
+            "description": "Manage your applications on the Private Cloud OpenShift platform and the Public Cloud Landing Zone.",
+            "context": "Where you go to manage namespaces and access to them.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1761862930578,
+            "sort_order": 2
+          }
+        ]
+      }
+    ]
+  }
+}

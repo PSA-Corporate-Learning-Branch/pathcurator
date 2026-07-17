@@ -1,12 +1,49 @@
 {
   "schemaVersion": 1,
-  "workspace": "corporate-learning-branch",
-  "orgLabel": "Corporate Learning Branch",
-  "updatedAt": 1784329990627,
-  "pathways": [],
+  "workspace": "psa-corp-learning",
+  "orgLabel": "PSA Corp Learning",
+  "updatedAt": 1784332394600,
+  "pathways": [
+    {
+      "id": "1760492232638",
+      "file": "pathways/1760492232638.json",
+      "sort_order": 0,
+      "name": "CLB Full-Stack Developer Resources"
+    },
+    {
+      "id": "103",
+      "file": "pathways/103.json",
+      "sort_order": 1,
+      "name": "Introduction to the BC Declaration on the Rights of Indigenous Peoples Act"
+    },
+    {
+      "id": "1755290377619",
+      "file": "pathways/1755290377619.json",
+      "sort_order": 2,
+      "name": "The Ability to Access"
+    },
+    {
+      "id": "107",
+      "file": "pathways/107.json",
+      "sort_order": 3,
+      "name": "Respectful Workplace"
+    },
+    {
+      "id": "1746165855980",
+      "file": "pathways/1746165855980.json",
+      "sort_order": 4,
+      "name": "Anti-Racism in the BC Public Service"
+    },
+    {
+      "id": "1746391996332",
+      "file": "pathways/1746391996332.json",
+      "sort_order": 5,
+      "name": "Full Stack Developer"
+    }
+  ],
   "counts": {
-    "pathways": 0,
-    "steps": 0,
-    "bookmarks": 0
+    "pathways": 6,
+    "steps": 28,
+    "bookmarks": 149
   }
 }

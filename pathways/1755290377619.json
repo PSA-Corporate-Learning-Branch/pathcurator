@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "pathway": {
+    "id": "1755290377619",
+    "name": "The Ability to Access",
+    "description": "Accessibility is a broad descriptor generally misapplied to a narrow set of users. Every person has accessibility needs which evolve. It's not just a matter of empathy for those who have a disabilities that we're used to thinking about. Accessible technologies are good technologies which benefit everyone as much or more as the people they were designed to assist. Here is a selection of links which support that assertion.",
+    "content_warning": "",
+    "acknowledgments": "",
+    "sort_order": 2,
+    "created_at": 1755290377619,
+    "last_updated": 1760031500891,
+    "version": "fbabb3-2026-07-17",
+    "created_by": "Unknown",
+    "modified_by": "allanhaggett",
+    "header_image": null,
+    "version_history": [
+      {
+        "hash": "fbabb3-2026-07-17",
+        "timestamp": 1784332394600,
+        "stepCount": 1,
+        "bookmarkCount": 7,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "0hhyia-2025-09-19",
+        "timestamp": 1758311589162,
+        "stepCount": 1,
+        "bookmarkCount": 5,
+        "modifiedBy": "Unknown"
+      },
+      {
+        "hash": "ymfvaa-2025-08-17",
+        "timestamp": 1755408495255,
+        "stepCount": 1,
+        "bookmarkCount": 4,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "36h214-2025-08-17",
+        "timestamp": 1755400650523,
+        "stepCount": 1,
+        "bookmarkCount": 4,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "d2c017-2025-08-16",
+        "timestamp": 1755369926343,
+        "stepCount": 1,
+        "bookmarkCount": 3,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "d2c017-2025-08-16",
+        "timestamp": 1755369899918,
+        "stepCount": 1,
+        "bookmarkCount": 3,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "okslve-2025-08-16",
+        "timestamp": 1755369431761,
+        "stepCount": 1,
+        "bookmarkCount": 2,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "1lsc7t-2025-08-16",
+        "timestamp": 1755368756992,
+        "stepCount": 1,
+        "bookmarkCount": 2,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "n24fzx-2025-08-16",
+        "timestamp": 1755368747054,
+        "stepCount": 1,
+        "bookmarkCount": 2,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "3nj3zf-2025-08-15",
+        "timestamp": 1755291141158,
+        "stepCount": 1,
+        "bookmarkCount": 0,
+        "modifiedBy": "Unknown"
+      }
+    ],
+    "extra": {},
+    "steps": [
+      {
+        "id": "1755290377619-s0",
+        "name": "World Wide Web",
+        "objective": "As if general principles of accessibility weren't complex enough, applying them to the technological marvel that is the internet adds multiple new dimensions to consider. From basic technical connections between servers to interaction design, the web can either hinder or dramatically increase access to the rich information that everyone has a right to be able to access with comfort.",
+        "pause_and_reflect": "",
+        "sort_order": 0,
+        "bookmarks": [
+          {
+            "id": "1755290377619-s0-b0",
+            "title": "Introduction to Web Accessibility",
+            "url": "https://www.w3.org/WAI/fundamentals/accessibility-intro/",
+            "url_norm": "https://www.w3.org/WAI/fundamentals/accessibility-intro",
+            "description": "When websites and web tools are properly designed and coded, people with disabilities can use them. However, currently many sites and tools are developed with accessibility barriers that make them difficult or impossible for some people to use.\n\nMaking the web accessible benefits individuals, businesses, and society. International web standards define what is needed for accessibility.",
+            "context": "One of those fundamental places that defines the standards.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1755290377619-s0-b1",
+            "title": "Accessibility | MDN",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
+            "url_norm": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
+            "description": "Accessibility (often abbreviated to A11y — as in, \"a\", then 11 characters, and then \"y\") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way.",
+            "context": "Not fan of describing accessibility solely in terms of peoples limitations but this resource is fantastic and vital to understanding how to apply assistive technologies in many different ways.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1755291687302,
+            "sort_order": 1
+          },
+          {
+            "id": "1755290377619-s0-b2",
+            "title": "Semantics - Glossary | MDN",
+            "url": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+            "url_norm": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+            "description": "In programming, Semantics refers to the meaning of a piece of code — for example \"what effect does running that line of JavaScript have?\", or \"what purpose or role does that HTML element have\" (rather than \"what does it look like?\".)",
+            "context": "Knowing this what markup to use for content is a vital skill that is fundamental to good accessibility.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1755400618666,
+            "sort_order": 2
+          },
+          {
+            "id": "1755290377619-s0-b3",
+            "title": "Home - The A11Y Project",
+            "url": "https://www.a11yproject.com/",
+            "url_norm": "https://www.a11yproject.com/",
+            "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
+            "context": "Another great authoritative place to go to get comprehensive info on how to apply the standards and exploring the people in the community.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1755369890992,
+            "sort_order": 3
+          },
+          {
+            "id": "1755290377619-s0-b4",
+            "title": "I Need an Accessible Hero | Access Armada",
+            "url": "https://www.accessarmada.com/blog/i-need-an-accessible-hero/",
+            "url_norm": "https://www.accessarmada.com/blog/i-need-an-accessible-hero",
+            "description": "An accessible hero image experience is important in serving your entire user base and avoiding obstacles before users get to know you better.",
+            "context": "I see this far too often. This article doesn't touch on the performance impacts of unoptimized images used for these purposes but the principles it does touch on are all very important considerations.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1756060514404,
+            "sort_order": 4
+          },
+          {
+            "id": "1755290377619-s0-b5",
+            "title": "CAN-ASC-3.1 – Plain Language - Accessibility Standards Canada",
+            "url": "https://accessible.canada.ca/creating-accessibility-standards/can-asc-31-plain-language",
+            "url_norm": "https://accessible.canada.ca/creating-accessibility-standards/can-asc-31-plain-language",
+            "description": "\n\nThis is the first edition of CAN/ASC-3.1, Plain Language Standard.\n\nThis Plain Language Standard is a mandatory (normative) Standard. It uses conventional regulatory language. Standards Council of Canada, as governed by the International Organization for Standardization (ISO) guidelines, requires that standards use regulatory language so that this Standard may be classified as a National Standard of Canada.\n\nThe Plain Language Technical Committee acknowledges this regulatory language does not follow some plain language principles in this Standard. The Technical Committee is working towards a time when all standards are presented in plain language to achieve accessibility, clarity, usability, and overall effectiveness.",
+            "context": "This one is so important and one of the easiest things to overlook.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1759457518603,
+            "sort_order": 5
+          },
+          {
+            "id": "1755290377619-s0-b6",
+            "title": "Hick’s Law in UX - GeeksforGeeks",
+            "url": "https://www.geeksforgeeks.org/websites-apps/hicks-law-in-ux/",
+            "url_norm": "https://www.geeksforgeeks.org/websites-apps/hicks-law-in-ux",
+            "description": "Hick's Law, commonly known as Hick-Hyman Law, is a psychological phenomenon which reveals the amount of time human requires to make a decision by the number of available selections. It is frequently used in the settings of user experience and interface design to explore the bond between the number of choices given to an individual and the decision making time of this individual.",
+            "context": "This can have a dramatic affect on accessibility. As simple as possible without being too simple!",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1760031500891,
+            "sort_order": 6
+          }
+        ]
+      }
+    ]
+  }
+}

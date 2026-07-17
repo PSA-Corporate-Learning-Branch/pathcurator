@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 1,
+  "pathway": {
+    "id": "1746165855980",
+    "name": "Anti-Racism in the BC Public Service",
+    "description": "Learners have a better understanding of what it means to be “anti-racist” and what role they have within the BC Public Service in improving their capacities to respond to discrimination and racism at work.",
+    "content_warning": "> \"Not everything that is faced can be changed, but nothing can be changed until it is faced.\" — James Baldwin\n\nThis learning pathway deals with sensitive topics. It touches on racism, inequity, power structures and the inherent imbalances that exist in our society, culture, and organizations.\n\nThe content of this pathway is primarily tailored for those new to the subject area. We, however, recognize that thousands of BC Public Service employees who represent the Black, Indigenous, and People of Color (BIPOC) and other marginalized communities are also completing this learning and may have a different baseline of knowledge and lived experience.\n\nIrrespective of your life experiences, be prepared for moments when you will feel uncomfortable. Know that discomfort is normal and is often a prerequisite for positive change and growth. When you feel discomfort, it's not a sign that something is wrong — it's a sign that you are doing something right.\n\nSome learners may find the training overwhelming due to personal experiences with racism and other forms of discrimination. In such circumstances, we encourage you to step back, prioritize emotional health, and return to the content.\n\nAs employees, you have access to [Employee and Family Assistance Services](https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/health-safety-and-sick-leave-resources/health/efas?keyword=EFAS) anytime you need. You will also find resources and other workplace support mechanisms related to anti-racism within module four and five of these pathways.\n\nCanadians in crisis can also call or text 9-8-8 24/7 to access bilingual, trauma-informed, and culturally appropriate mental health, and suicide prevention support.\n\nLet's dive into the learning journey with open minds and hearts as we strive to make BC Public Service an equitable, inclusive, and anti-racist organization.\n\nIn the words of Maya Angelou, **\"Do the best you can until you know better. Then when you know better, do better.\"** This learning pathway is designed with that learning spirit in mind.",
+    "acknowledgments": "The Corporate Learning Branch would like to acknowledge the support we received from many of our colleagues and partners in multiple branches/ministries during the development of this learning resource. We also appreciate the invaluable comments we received during our engagement sessions.\n\nIn particular, our sincere thanks go out to colleagues and partners at the following entities:\n\n* Policy & Legislation, BC Data Service, CITZ\n* Multiculturalism & Anti-Racism Branch, AG\n* PSA REDI, Policy and Employee Relations\n* SDPR Inclusion, Diversity and Cultural Safety (IDCS) & Anti-Racism 101 course\n* BIPOC Employee Resource Group\n* Indigenous Employees Network",
+    "sort_order": 4,
+    "created_at": 1746165855980,
+    "last_updated": 1758413589122,
+    "version": "a143c5-2026-07-17",
+    "created_by": "Unknown",
+    "modified_by": "allanhaggett",
+    "header_image": {
+      "sha256": "174a93d509b288f2f29021812f2e9253c0009ee025d8eae2d95855807d42588f",
+      "mime": "image/jpeg",
+      "ext": "jpg",
+      "file": "images/174a93d509b288f2f29021812f2e9253c0009ee025d8eae2d95855807d42588f.jpg"
+    },
+    "version_history": [
+      {
+        "hash": "a143c5-2026-07-17",
+        "timestamp": 1784332394600,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "allanhaggett"
+      },
+      {
+        "hash": "65jtrl-2025-09-21",
+        "timestamp": 1758413589122,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "Unknown"
+      },
+      {
+        "hash": "5gdcfz-2025-09-21",
+        "timestamp": 1758413579291,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "Unknown"
+      },
+      {
+        "hash": "2atakz-2025-09-21",
+        "timestamp": 1758413575361,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "Unknown"
+      },
+      {
+        "hash": "65jtrl-2025-09-19",
+        "timestamp": 1758311589178,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "Unknown"
+      },
+      {
+        "hash": "65jtrl-2025-07-11",
+        "timestamp": 1752269812534,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "65jtrl-2025-07-09",
+        "timestamp": 1752096073191,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "2atakz-2025-07-09",
+        "timestamp": 1752096064777,
+        "stepCount": 5,
+        "bookmarkCount": 35,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "phwsef-2025-07-09",
+        "timestamp": 1752096061846,
+        "stepCount": 5,
+        "bookmarkCount": 36,
+        "modifiedBy": "itr8tech"
+      },
+      {
+        "hash": "xwnh5u-2025-07-08",
+        "timestamp": 1752008377803,
+        "stepCount": 5,
+        "bookmarkCount": 37,
+        "modifiedBy": "itr8tech"
+      }
+    ],
+    "extra": {},
+    "steps": [
+      {
+        "id": "1746165855980-s0",
+        "name": "History of Racism in Canada",
+        "objective": "Learn about the history of racism in Canada to better understand the current context. \"Contemporary racial oppression still has deeply connected roots in past racial oppression” and our societies operate within a racial frame that centers whiteness (Elias & Feagin, 2020, p. 21).",
+        "pause_and_reflect": "* Having finished reading and watching the recommended articles and videos, how would you define anti-racism in your own words?\n* To what degree are you aware of any anti-racism initiatives in your workplace?",
+        "sort_order": 0,
+        "bookmarks": [
+          {
+            "id": "1746165855980-s0-b0",
+            "title": "Challenging Racist British Columbia",
+            "url": "https://www.challengeracistbc.ca/video-series.html",
+            "url_norm": "https://www.challengeracistbc.ca/video-series.html",
+            "description": "A history of racism in British Columbia.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1746165855980-s0-b1",
+            "title": "British Columbia: An Untold History | Knowledge.ca",
+            "url": "https://www.knowledge.ca/program/british-columbia-untold-history",
+            "url_norm": "https://www.knowledge.ca/program/british-columbia-untold-history",
+            "description": "Indigenous, Chinese, Japanese, Punjabi, Black, and European stories are woven together to present an astute look at the complicated histories that shaped BC as we know it today.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1746165855980-s0-b2",
+            "title": "Racism in Canada: Words to tell wrongs | Radio-Canada.ca",
+            "url": "https://ici.radio-canada.ca/rci/en/news/1882127/racism-in-canada-words-to-tell-wrongs",
+            "url_norm": "https://ici.radio-canada.ca/rci/en/news/1882127/racism-in-canada-words-to-tell-wrongs",
+            "description": "Canada is usually referred to as a country of immigration, a country open to difference, a country that embraces multiculturalism. But more and more voices are rising to denounce ordinary or systemic racism and racist incidents, some of them tragic.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          }
+        ]
+      },
+      {
+        "id": "1746165855980-s1",
+        "name": "Contextualize Racism and Anti-Racism",
+        "objective": "Understand the context in which racism exists. Learn about anti-racism and why simply being “not racist” isn't enough.",
+        "pause_and_reflect": "* How would you identify yourself racially? Reflect on your identity and who you are in relation to the land and other community members both within the organization and society.\n* As BC Public Service employees, what role do you believe we have in creating a racially just and safe organization and society where everyone can thrive?",
+        "sort_order": 1,
+        "bookmarks": [
+          {
+            "id": "1746165855980-s1-b0",
+            "title": "Key Definitions | Anti-Racism in the BCPS - Learning Curator Pathway Aid",
+            "url": "https://gww.bcpublicservice.gov.bc.ca/learning/curator/anti-racism-in-bcps/key-definitions.html",
+            "url_norm": "https://gww.bcpublicservice.gov.bc.ca/learning/curator/anti-racism-in-bcps/key-definitions.html",
+            "description": "Key Definitions for Anti-Racism in the BCPS",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1746165855980-s1-b1",
+            "title": "Ibram X. Kendi defines what it means to be an antiracist",
+            "url": "https://www.penguin.co.uk/discover/articles/ibram-x-kendi-definition-of-antiracist",
+            "url_norm": "https://www.penguin.co.uk/discover/articles/ibram-x-kendi-definition-of-antiracist",
+            "description": "In this extract from his 2019 book How To Be an Antiracist, historian Ibram X. Kendi breaks down exactly what the term means – and why clear language is a vital first step in the battle against prejudice.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1746165855980-s1-b2",
+            "title": "Introduction to Unlearning & Undoing White Supremacy and Racism in the Office of the Provincial Health Officer - Province of British Columbia",
+            "url": "https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/office-of-the-provincial-health-officer/unlearning-undoing-project",
+            "url_norm": "https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/office-of-the-provincial-health-officer/unlearning-undoing-project",
+            "description": "Introduction to Unlearning & Undoing White Supremacy and Racism in the Office of the Provincial Health Officer",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          },
+          {
+            "id": "1746165855980-s1-b3",
+            "title": "White Supremacy in ‘British’ Columbia, and the China Syndrome | The Tyee",
+            "url": "https://thetyee.ca/Opinion/2020/06/10/White-Supremacy-BC-China-Syndrome/",
+            "url_norm": "https://thetyee.ca/Opinion/2020/06/10/White-Supremacy-BC-China-Syndrome",
+            "description": "Anti-China sentiments — and political posturing — have led to racism against Asian Canadians.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 3
+          },
+          {
+            "id": "1746165855980-s1-b4",
+            "title": "What is White Supremacy Culture?",
+            "url": "https://www.whitesupremacyculture.info/what-is-it.html",
+            "url_norm": "https://www.whitesupremacyculture.info/what-is-it.html",
+            "description": "This website describes white supremacy culture as a framework for understanding racism. It allows us to explore the power structure and its imbalances in society.",
+            "context": "",
+            "required": 0,
+            "content_type": "Watch",
+            "added_at": null,
+            "sort_order": 4
+          },
+          {
+            "id": "1746165855980-s1-b5",
+            "title": "What Is Critical Race Theory? A Brief History Explained - The New York Times",
+            "url": "https://web.archive.org/web/20240302075842/https://www.nytimes.com/article/what-is-critical-race-theory.html",
+            "url_norm": "https://web.archive.org/web/20240302075842/https://www.nytimes.com/article/what-is-critical-race-theory.html",
+            "description": "This New York times article introduces readers to the history of critical race theory in conceptualizing a framework needed in anti-racism studies.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 5
+          },
+          {
+            "id": "1746165855980-s1-b6",
+            "title": "Canadian Centre for Diversity and Inclusion (CCDI) Glossary of Terms",
+            "url": "https://ccdi.ca/media/4005/20230509-glossary-of-idea-terms-en.pdf",
+            "url_norm": "https://ccdi.ca/media/4005/20230509-glossary-of-idea-terms-en.pdf",
+            "description": "This CCDI-developed comprehensive glossary of terms provides a reference for terminology used within the Equity, Diversity, and Inclusion (EDI) and Accessibility learning space.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 6
+          },
+          {
+            "id": "1746165855980-s1-b7",
+            "title": "The difference between being \"not racist\" and antiracist | Ibram X. Kendi - YouTube",
+            "url": "https://www.youtube.com/watch?v=KCxbl5QgFZw",
+            "url_norm": "https://www.youtube.com/watch?v=KCxbl5QgFZw",
+            "description": "In this interview, Professor Ibram X. Kendi discusses how being “anti-racist” differs from being “not racist.”",
+            "context": "",
+            "required": 0,
+            "content_type": "Watch",
+            "added_at": null,
+            "sort_order": 7
+          }
+        ]
+      },
+      {
+        "id": "1746165855980-s2",
+        "name": "Colours of Racism in Canada",
+        "objective": "Understand the different types of racism and discrimination that Indigenous, Black, and other racialized and marginalized people experience in the Canadian context.",
+        "pause_and_reflect": "* As you reflect on various forms of systemic and structural racism, what more can we do to promote equity, diversity and inclusion in our workplace and society?",
+        "sort_order": 2,
+        "bookmarks": [
+          {
+            "id": "1746165855980-s2-b0",
+            "title": "Yes—Canada has anti-Black racism, too - YouTube",
+            "url": "https://www.youtube.com/watch?v=fNk633ujvWk",
+            "url_norm": "https://www.youtube.com/watch?v=fNk633ujvWk",
+            "description": "To the uninitiated, Canada may have a reputation for friendly and folksy charm. For Black and Indigenous peoples of the 'Great White North,' this veneer beli...",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1746165855980-s2-b1",
+            "title": "From hate to hope | BC's Office of the Human Rights Commissioner",
+            "url": "https://bchumanrights.ca/inquiries-and-cases/inquiries/inquiry/inquiry-into-hate/",
+            "url_norm": "https://bchumanrights.ca/inquiries-and-cases/inquiries/inquiry/inquiry-into-hate",
+            "description": "From hate to hope\nInquiry into hate in the COVID-19 pandemic\nIn August 2021, B.C.’s Human Rights Commissioner launched an inquiry into the rise of hate in B.C. during the COVID-19 pandemic. In March 2023, the Commissioner released her findings and recommendations.\n\nIllustrations by Paige Jung",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1746165855980-s2-b2",
+            "title": "Combatting Hate: Islamophobia and its impact on Muslims in Canada",
+            "url": "https://sencanada.ca/en/info-page/parl-44-1/ridr-islamophobia/",
+            "url_norm": "https://sencanada.ca/en/info-page/parl-44-1/ridr-islamophobia",
+            "description": "Rampant Islamophobia is costing Canadian Muslims their peace of mind, their physical well-being and even their lives.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          },
+          {
+            "id": "1746165855980-s2-b3",
+            "title": "Addressing Racism in BC Health Care",
+            "url": "https://engage.gov.bc.ca/addressingracism/",
+            "url_norm": "https://engage.gov.bc.ca/addressingracism",
+            "description": "Participate in the investigation into Indigenous-specific discrimination in the health system in BC.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 3
+          },
+          {
+            "id": "1746165855980-s2-b4",
+            "title": "Brief History of Antisemitism in Canada",
+            "url": "https://museeholocauste.ca/app/uploads/2018/10/brief_history_antisemitism_canada.pdf",
+            "url_norm": "https://museeholocauste.ca/app/uploads/2018/10/brief_history_antisemitism_canada.pdf",
+            "description": "This Montreal Holocaust Museum report uncovers the history of Antisemitism that greatly affects the Jewish community in Canada.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 4
+          },
+          {
+            "id": "1746165855980-s2-b5",
+            "title": "Race Relations in Canada 2019: A survey of Canadian public opinion and experience",
+            "url": "https://www.environicsinstitute.org/docs/default-source/project-documents/race-relations-2019-survey/race-relations-in-canada-2019-survey---final-report-english.pdf?sfvrsn=ef8d61e3_2",
+            "url_norm": "https://www.environicsinstitute.org/docs/default-source/project-documents/race-relations-2019-survey/race-relations-in-canada-2019-survey---final-report-english.pdf?sfvrsn=ef8d61e3_2",
+            "description": "This 2019 survey of Canadian public opinion and experience by the Canadian Race Relations Foundation found that racialized people experienced racism both in the workplace and out on the streets more than in any other setting.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 5
+          },
+          {
+            "id": "1746165855980-s2-b6",
+            "title": "The Traumatizing Impact of Racism in Canadians of Colour - PMC",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8943361/",
+            "url_norm": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8943361",
+            "description": "This article discusses racial trauma among the Black, Indigenous, and Other People of Colour (BIPOC) population in Canada.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 6
+          }
+        ]
+      },
+      {
+        "id": "1746165855980-s3",
+        "name": "Existing Legislation, Policies and Strategies",
+        "objective": "This module emphasizes on the relevant legislations and policies available in British Columbia.",
+        "pause_and_reflect": "",
+        "sort_order": 3,
+        "bookmarks": [
+          {
+            "id": "1746165855980-s3-b0",
+            "title": "Declaration on the Rights of Indigenous Peoples Act Action Plan",
+            "url": "https://www2.gov.bc.ca/assets/gov/government/ministries-organizations/ministries/indigenous-relations-reconciliation/declaration_act_action_plan.pdf",
+            "url_norm": "https://www2.gov.bc.ca/assets/gov/government/ministries-organizations/ministries/indigenous-relations-reconciliation/declaration_act_action_plan.pdf",
+            "description": "The Action Plan outlines goals and outcomes for ending Indigenous-specific racism and discrimination in British Columbia.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1746165855980-s3-b1",
+            "title": "Human rights in B.C. | BC's Office of the Human Rights Commissioner",
+            "url": "https://bchumanrights.ca/human-rights/human-rights-in-bc/",
+            "url_norm": "https://bchumanrights.ca/human-rights/human-rights-in-bc",
+            "description": "The Human Rights Code helps protect people against discrimination in B.C. based on parts of their identity.",
+            "context": "",
+            "required": 0,
+            "content_type": "Watch",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1746165855980-s3-b2",
+            "title": "The Anti-Racism Data Act -",
+            "url": "https://antiracism.gov.bc.ca/data-act/",
+            "url_norm": "https://antiracism.gov.bc.ca/data-act",
+            "description": "On May 2, 2022, we introduced the Anti-Racism Data Act. Its one of the first pieces of legislation to be co-developed with Indigenous Peoples under the Declaration on the Rights of Indigenous Peoples Act.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          },
+          {
+            "id": "1746165855980-s3-b3",
+            "title": "HR Policy 11 – Discrimination, Bullying and Harassment in the Workplace",
+            "url": "https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/hr-policy-pdf-documents/hr_policy_11_discrimination_bullying_and_harassment_in_the_workplace.pdf",
+            "url_norm": "https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/hr-policy-pdf-documents/hr_policy_11_discrimination_bullying_and_harassment_in_the_workplace.pdf",
+            "description": "The purpose of this policy is to promote safe, healthy BC Public Service workplaces, free from discrimination, bullying and harassment. This policy covers individual behaviours and accountability. The BC Public Service, in cooperation with its unions and associations, is committed to promoting respectful behaviour. Respectful behaviour reflects BC Public Service corporate ethics and values, supports diversity and inclusion and promotes positive communication and collaborative working relationships – all essential to fostering public trust and confidence in the BC Public Service.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 3
+          },
+          {
+            "id": "1746165855980-s3-b4",
+            "title": "HR Policy 09 – Standards of Conduct for BC Public Service Employees",
+            "url": "https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/hr-policy-pdf-documents/09_standards_conduct_policy.pdf",
+            "url_norm": "https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/hr-policy-pdf-documents/09_standards_conduct_policy.pdf",
+            "description": "This policy statement applies to all persons and organizations covered by the Public Service Act. The policy statement supports the core policy objective that “public service employees exhibit the highest standards of conduct.”",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 4
+          },
+          {
+            "id": "1746165855980-s3-b5",
+            "title": "Equity, Diversity & Inclusion Strategy for the BC Public Service - Province of British Columbia",
+            "url": "https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy#di_strategy",
+            "url_norm": "https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy",
+            "description": "The BC Public Service is an inclusive employer representative of the people of British Columbia. Everyone belongs. This page outlines Where We All Belong, the three-year diversity and inclusion strategy for the BC Public Service.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 5
+          },
+          {
+            "id": "1746165855980-s3-b6",
+            "title": "2023 Corporate HR Plan",
+            "url": "https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/corporate-digital/corporateplan_2023.pdf",
+            "url_norm": "https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/corporate-digital/corporateplan_2023.pdf",
+            "description": "The corporate HR plan sets the strategic vision and guiding direction for the BC Public Service.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 6
+          },
+          {
+            "id": "1746165855980-s3-b7",
+            "title": "Address a respectful workplace issue - Province of British Columbia",
+            "url": "https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/working-with-others/address-a-respectful-workplace-issue",
+            "url_norm": "https://www2.gov.bc.ca/gov/content/careers-myhr/all-employees/working-with-others/address-a-respectful-workplace-issue",
+            "description": "How to address a workplace conflict",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 7
+          },
+          {
+            "id": "1746165855980-s3-b8",
+            "title": "A Progress Report on Anti-Racism Policy Across Canada",
+            "url": "https://peopleforeducation.ca/wp-content/uploads/2023/01/PFE-AntiRacismReport-EN-2023-v1d.pdf",
+            "url_norm": "https://peopleforeducation.ca/wp-content/uploads/2023/01/PFE-AntiRacismReport-EN-2023-v1d.pdf",
+            "description": "This Report examines the development of anti-racism legislation in three Canadian provinces and underscores the existing Pan-Canadian gaps.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 8
+          },
+          {
+            "id": "1746165855980-s3-b9",
+            "title": "Charter of Rights and Freedoms",
+            "url": "https://laws.justice.gc.ca/eng/Const/page-12.html",
+            "url_norm": "https://laws.justice.gc.ca/eng/Const/page-12.html",
+            "description": "Among others, section 15 of the Charter of Rights addresses our right to be free from discrimination based on race, national or ethnic origin, colour, religion, sex, age and mental or physical disability.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 9
+          }
+        ]
+      },
+      {
+        "id": "1746165855980-s4",
+        "name": "Becoming Anti-Racist in BC Public Service",
+        "objective": "This step outlines ways we can become anti-racist in our organization.",
+        "pause_and_reflect": "Can you think of other policies, strategies, resources, and learnings that must be implemented to prevent racism and discrimination in the BC Public Service?",
+        "sort_order": 4,
+        "bookmarks": [
+          {
+            "id": "1746165855980-s4-b0",
+            "title": "BCGEU Anti-Racism Resources",
+            "url": "https://www.bcgeu.ca/antiracismresources",
+            "url_norm": "https://www.bcgeu.ca/antiracismresources",
+            "description": "The BC General Employees Union (BCGEU) webpage also has various resources on anti-racism for membership.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 0
+          },
+          {
+            "id": "1746165855980-s4-b1",
+            "title": "Anti-Racist \"Zones\" Infographic",
+            "url": "https://gww.bcpublicservice.gov.bc.ca/learning/curator/anti-racism-in-bcps/becoming-anti-racist-infographic.html",
+            "url_norm": "https://gww.bcpublicservice.gov.bc.ca/learning/curator/anti-racism-in-bcps/becoming-anti-racist-infographic.html",
+            "description": "Becoming Anti-Racist Infographic describes the different zones an individual progresses through on their journey to being Anti-Racist.",
+            "context": "A picture is worth 1000 words.",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 1
+          },
+          {
+            "id": "1746165855980-s4-b2",
+            "title": "What You Can Do to Create an Anti-Racist Organization",
+            "url": "https://www.hbs.edu/recruiting/insights-and-advice/blog/post/building-organizations-cultures-awareness-accountability",
+            "url_norm": "https://www.hbs.edu/recruiting/insights-and-advice/blog/post/building-organizations-cultures-awareness-accountability",
+            "description": "This opinion piece presents three critical elements for creating a roadmap that helps individuals learn how to be actively anti-racist.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 2
+          },
+          {
+            "id": "1746165855980-s4-b3",
+            "title": "Resilience BC",
+            "url": "https://www.resiliencebc.ca/learn-more-about-racism/anti-racism-tools/",
+            "url_norm": "https://www.resiliencebc.ca/learn-more-about-racism/anti-racism-tools",
+            "description": "Resilience BCs Anti-Racism Network provides tools to help you make a future free of racism and hate a reality.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 3
+          },
+          {
+            "id": "1746165855980-s4-b4",
+            "title": "Anti-discrimination policies and addressing complaints",
+            "url": "https://bchumanrights.ca/wp-content/uploads/Infosheet_discrimination-and-complaint-resolution.pdf",
+            "url_norm": "https://bchumanrights.ca/wp-content/uploads/Infosheet_discrimination-and-complaint-resolution.pdf",
+            "description": "The toolkit was created by BCs Office of the Human Rights Commissioner (BCOHRC) to help employers learn how to improve employment equity within their businesses and organizations.",
+            "context": "",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": null,
+            "sort_order": 4
+          },
+          {
+            "id": "1746165855980-s4-b5",
+            "title": "DEI Isn’t Enough; Companies Need Anti-Racist Leadership",
+            "url": "https://hbr.org/podcast/2022/03/dei-isnt-enough-companies-need-anti-racist-leadership",
+            "url_norm": "https://hbr.org/podcast/2022/03/dei-isnt-enough-companies-need-anti-racist-leadership",
+            "description": "In this interview, author James D. White talks about anti-racist leadership to promote diversity and inclusion in the workplace.",
+            "context": "",
+            "required": 0,
+            "content_type": "Listen",
+            "added_at": null,
+            "sort_order": 5
+          },
+          {
+            "id": "1746165855980-s4-b6",
+            "title": "Anti-Racism Awareness Course",
+            "url": "https://opl.educ.ubc.ca/anti-racism-awareness/",
+            "url_norm": "https://opl.educ.ubc.ca/anti-racism-awareness",
+            "description": "A FREE online course that will systemically uncover historic, systemic and institutional racisms and their impacts on marginalized peoples.",
+            "context": "",
+            "required": 0,
+            "content_type": "Participate",
+            "added_at": null,
+            "sort_order": 6
+          }
+        ]
+      }
+    ]
+  }
+}
