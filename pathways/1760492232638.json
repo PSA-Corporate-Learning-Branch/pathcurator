@@ -8,12 +8,19 @@
     "acknowledgments": "",
     "sort_order": 0,
     "created_at": 1760492232638,
-    "last_updated": 1784332565402,
-    "version": "26ef7b-2026-07-17",
+    "last_updated": 1784338107695,
+    "version": "2e2820-2026-07-18",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
+      {
+        "hash": "2e2820-2026-07-18",
+        "timestamp": 1784338152511,
+        "stepCount": 5,
+        "bookmarkCount": 16,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "26ef7b-2026-07-17",
         "timestamp": 1784332597100,
@@ -75,13 +82,6 @@
         "timestamp": 1760494494839,
         "stepCount": 4,
         "bookmarkCount": 7,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "xkh45z-2025-10-15",
-        "timestamp": 1760494194032,
-        "stepCount": 4,
-        "bookmarkCount": 6,
         "modifiedBy": "allanhaggett"
       }
     ],
@@ -309,6 +309,18 @@
             "content_type": "Read",
             "added_at": 1761862930578,
             "sort_order": 2
+          },
+          {
+            "id": "daa108d3-1c7f-46c2-8659-3d032254f6f6",
+            "title": "CHEFS Technical Documentation | About | B.C. government DevHub",
+            "url": "https://developer.gov.bc.ca/docs/default/component/chefs-techdocs/About/",
+            "url_norm": "https://developer.gov.bc.ca/docs/default/component/chefs-techdocs/About",
+            "description": "Ea nemo doloribus eaque. Voluptatibus ut rem voluptatibus asperiores necessitatibus occaecati autem. Ut soluta ab est vel velit voluptatem rem eaque. Blanditiis fuga iure suscipit ab aspernatur.",
+            "context": "",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1784338040542,
+            "sort_order": 3
           }
         ]
       }
