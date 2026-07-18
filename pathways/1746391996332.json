@@ -6,10 +6,10 @@
     "description": "Good links to all parts of the stack, even though that's a ridiculously large area. Bump.",
     "content_warning": "!!!WARNING: Please basically ignore this pathway. This is an ad hoc development pathway that I've been using to quickly test this system. The links contained within work but many times the \"curator context\" is comedically incomplete or wrong. ",
     "acknowledgments": "",
-    "sort_order": 5,
+    "sort_order": 1,
     "created_at": 1746391996332,
-    "last_updated": 1758311589179,
-    "version": "2f1dec-2026-07-17",
+    "last_updated": 1784345947888,
+    "version": "1f18ea-2026-07-18",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": {
@@ -19,6 +19,13 @@
       "file": "images/3f618e56ba0b2d5ad9ff99233a4de90e5b075dfb18ebecd44d721f283fa9034c.jpg"
     },
     "version_history": [
+      {
+        "hash": "1f18ea-2026-07-18",
+        "timestamp": 1784345966194,
+        "stepCount": 7,
+        "bookmarkCount": 36,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "2f1dec-2026-07-17",
         "timestamp": 1784332394600,
@@ -80,13 +87,6 @@
         "timestamp": 1751915381802,
         "stepCount": 6,
         "bookmarkCount": 38,
-        "modifiedBy": "itr8tech"
-      },
-      {
-        "hash": "imdb99-2025-07-06",
-        "timestamp": 1751765683567,
-        "stepCount": 6,
-        "bookmarkCount": 37,
         "modifiedBy": "itr8tech"
       }
     ],
@@ -250,18 +250,6 @@
             "sort_order": 3
           },
           {
-            "id": "1746391996332-s2-b4",
-            "title": "REST Client - Visual Studio Marketplace",
-            "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
-            "url_norm": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
-            "description": "Extension for Visual Studio Code - REST Client for Visual Studio Code",
-            "context": "",
-            "required": 0,
-            "content_type": "Read",
-            "added_at": null,
-            "sort_order": 4
-          },
-          {
             "id": "1746391996332-s2-b5",
             "title": "nginx",
             "url": "https://nginx.org/",
@@ -271,7 +259,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 5
+            "sort_order": 4
           },
           {
             "id": "1746391996332-s2-b6",
@@ -283,7 +271,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 6
+            "sort_order": 5
           },
           {
             "id": "1746391996332-s2-b7",
@@ -295,7 +283,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 7
+            "sort_order": 6
           },
           {
             "id": "1746391996332-s2-b8",
@@ -307,7 +295,7 @@
             "required": 1,
             "content_type": "Watch",
             "added_at": 1751915543841,
-            "sort_order": 8
+            "sort_order": 7
           },
           {
             "id": "1746391996332-s2-b9",
@@ -319,7 +307,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1752255427432,
-            "sort_order": 9
+            "sort_order": 8
           }
         ]
       },
@@ -391,18 +379,6 @@
             "sort_order": 4
           },
           {
-            "id": "1746391996332-s3-b5",
-            "title": "Testing dead link",
-            "url": "https://example.tech/",
-            "url_norm": "https://example.tech/",
-            "description": "This link should be dead.",
-            "context": "Test",
-            "required": 0,
-            "content_type": "Read",
-            "added_at": null,
-            "sort_order": 5
-          },
-          {
             "id": "1746391996332-s3-b6",
             "title": "systemfontstack",
             "url": "https://systemfontstack.com/",
@@ -412,7 +388,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 6
+            "sort_order": 5
           },
           {
             "id": "1746391996332-s3-b7",
@@ -424,7 +400,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 7
+            "sort_order": 6
           }
         ]
       },
@@ -436,18 +412,6 @@
         "sort_order": 4,
         "bookmarks": [
           {
-            "id": "1746391996332-s4-b0",
-            "title": "Just Ask! for Github organization access",
-            "url": "https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/",
-            "url_norm": "https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/",
-            "description": "Just Ask! A github app to just ask for Github organization access",
-            "context": "",
-            "required": 0,
-            "content_type": "Read",
-            "added_at": null,
-            "sort_order": 0
-          },
-          {
             "id": "1746391996332-s4-b1",
             "title": "BC Developer Guide | A guide to application development for the B.C. government. | B.C. government DevHub",
             "url": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#ministry-specific-private-organizations-in-github-enterprise",
@@ -457,7 +421,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 1
+            "sort_order": 0
           },
           {
             "id": "1746391996332-s4-b2",
@@ -469,7 +433,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 2
+            "sort_order": 1
           },
           {
             "id": "1746391996332-s4-b3",
@@ -481,7 +445,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 3
+            "sort_order": 2
           },
           {
             "id": "1746391996332-s4-b4",
@@ -493,7 +457,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 4
+            "sort_order": 3
           },
           {
             "id": "1746391996332-s4-b5",
@@ -505,7 +469,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 5
+            "sort_order": 4
           }
         ]
       },
@@ -589,18 +553,6 @@
             "sort_order": 5
           },
           {
-            "id": "1746391996332-s5-b6",
-            "title": "ChatGPT",
-            "url": "https://chatgpt.com/",
-            "url_norm": "https://chatgpt.com/",
-            "description": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.",
-            "context": "I mean, don't use it if it doesn't do anything for you, but I depend on this stuff.",
-            "required": 1,
-            "content_type": "Read",
-            "added_at": 1751698661207,
-            "sort_order": 6
-          },
-          {
             "id": "1746391996332-s5-b7",
             "title": "Mozilla — Internet for people, not profit",
             "url": "https://www.mozilla.org/en-CA/",
@@ -610,7 +562,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1751738216818,
-            "sort_order": 7
+            "sort_order": 6
           },
           {
             "id": "1746391996332-s5-b8",
@@ -622,7 +574,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": 1751843438375,
-            "sort_order": 8
+            "sort_order": 7
           }
         ]
       },
@@ -632,20 +584,7 @@
         "objective": "AI is scary.",
         "pause_and_reflect": "",
         "sort_order": 6,
-        "bookmarks": [
-          {
-            "id": "1746391996332-s6-b0",
-            "title": "Claude",
-            "url": "https://claude.ai/new",
-            "url_norm": "https://claude.ai/new",
-            "description": "Talk with Claude, an AI assistant from Anthropic",
-            "context": "",
-            "required": 1,
-            "content_type": "Read",
-            "added_at": 1752095466956,
-            "sort_order": 0
-          }
-        ]
+        "bookmarks": []
       }
     ]
   }

@@ -8,12 +8,19 @@
     "acknowledgments": "",
     "sort_order": 0,
     "created_at": 1760492232638,
-    "last_updated": 1784340448035,
-    "version": "d47901-2026-07-18",
+    "last_updated": 1784345907746,
+    "version": "ec9fd4-2026-07-18",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
+      {
+        "hash": "ec9fd4-2026-07-18",
+        "timestamp": 1784345966194,
+        "stepCount": 5,
+        "bookmarkCount": 15,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "d47901-2026-07-18",
         "timestamp": 1784340523408,
@@ -75,13 +82,6 @@
         "timestamp": 1760494740057,
         "stepCount": 5,
         "bookmarkCount": 9,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "7avzrz-2025-10-15",
-        "timestamp": 1760494506501,
-        "stepCount": 4,
-        "bookmarkCount": 7,
         "modifiedBy": "allanhaggett"
       }
     ],
@@ -242,18 +242,6 @@
             "sort_order": 0
           },
           {
-            "id": "1760492232638-s3-b1",
-            "title": "GitHiub Project · PSA Moodle",
-            "url": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
-            "url_norm": "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/6",
-            "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
-            "context": "The main project place.",
-            "required": 1,
-            "content_type": "Read",
-            "added_at": 1760494704189,
-            "sort_order": 1
-          },
-          {
             "id": "1760492232638-s3-b2",
             "title": "PSA-Corporate-Learning-Branch/PSAELMSync",
             "url": "https://github.com/PSA-Corporate-Learning-Branch/psaelmsync",
@@ -263,7 +251,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 2
+            "sort_order": 1
           }
         ]
       },
@@ -275,18 +263,6 @@
         "sort_order": 4,
         "bookmarks": [
           {
-            "id": "1760492232638-s4-b0",
-            "title": "RocketChat - BCDevXHQ",
-            "url": "https://chat.developer.gov.bc.ca/home",
-            "url_norm": "https://chat.developer.gov.bc.ca/home",
-            "description": "The place where discussion on the OpenShift platform takes place.",
-            "context": "Anything OS including immediate support.",
-            "required": 1,
-            "content_type": "Read",
-            "added_at": 1760494832327,
-            "sort_order": 0
-          },
-          {
             "id": "1760492232638-s4-b1",
             "title": "8M+ Free Icons & Stock Photos | SVG & PNG | Download Today",
             "url": "https://thenounproject.com/?utm_campaign=22235953-Newsletter | Edit Mode | FY26&utm_medium=email&_hsenc=p2ANqtz-_gxJlhJjFSzpEC1jg8J6Y3fVmwnLM9nYHvl_Pn3G_k7t0N-Oyo0DFqy_OTDdEQrCf73-2zce-o3Ym1cO0hRPUGvRU8ow&_hsmi=386016512&utm_content=385942453&utm_source=hs_email",
@@ -296,7 +272,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": 1761071201545,
-            "sort_order": 1
+            "sort_order": 0
           },
           {
             "id": "991eeea2-7e53-4250-9f87-4626cf196eb7",
@@ -308,7 +284,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1784340421985,
-            "sort_order": 2
+            "sort_order": 1
           },
           {
             "id": "1760492232638-s4-b2",
@@ -320,7 +296,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1761862930578,
-            "sort_order": 3
+            "sort_order": 2
           },
           {
             "id": "daa108d3-1c7f-46c2-8659-3d032254f6f6",
@@ -332,7 +308,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1784338040542,
-            "sort_order": 4
+            "sort_order": 3
           }
         ]
       }
