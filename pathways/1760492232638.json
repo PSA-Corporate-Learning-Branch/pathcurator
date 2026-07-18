@@ -8,12 +8,19 @@
     "acknowledgments": "",
     "sort_order": 0,
     "created_at": 1760492232638,
-    "last_updated": 1784338107695,
-    "version": "2e2820-2026-07-18",
+    "last_updated": 1784340448035,
+    "version": "d47901-2026-07-18",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
+      {
+        "hash": "d47901-2026-07-18",
+        "timestamp": 1784340523408,
+        "stepCount": 5,
+        "bookmarkCount": 17,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "2e2820-2026-07-18",
         "timestamp": 1784338152511,
@@ -73,13 +80,6 @@
       {
         "hash": "7avzrz-2025-10-15",
         "timestamp": 1760494506501,
-        "stepCount": 4,
-        "bookmarkCount": 7,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "51toeq-2025-10-15",
-        "timestamp": 1760494494839,
         "stepCount": 4,
         "bookmarkCount": 7,
         "modifiedBy": "allanhaggett"
@@ -299,6 +299,18 @@
             "sort_order": 1
           },
           {
+            "id": "991eeea2-7e53-4250-9f87-4626cf196eb7",
+            "title": "Common Service Showcase",
+            "url": "https://bcgov.github.io/common-service-showcase/services/ches.html",
+            "url_norm": "https://bcgov.github.io/common-service-showcase/services/ches.html",
+            "description": "Common Hosted Email Service",
+            "context": "We rely on CHES a lot.",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1784340421985,
+            "sort_order": 2
+          },
+          {
             "id": "1760492232638-s4-b2",
             "title": "B.C. Gov's Platform Product Registry",
             "url": "https://registry.developer.gov.bc.ca/login",
@@ -308,7 +320,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1761862930578,
-            "sort_order": 2
+            "sort_order": 3
           },
           {
             "id": "daa108d3-1c7f-46c2-8659-3d032254f6f6",
@@ -320,7 +332,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1784338040542,
-            "sort_order": 3
+            "sort_order": 4
           }
         ]
       }

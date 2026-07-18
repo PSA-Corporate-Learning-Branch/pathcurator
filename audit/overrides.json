@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": 1784340524463,
+  "overrides": {
+    "https://chat.developer.gov.bc.ca/home": {
+      "available": 0,
+      "method": "manual",
+      "setAt": 1784338318401
+    },
+    "https://example.tech/": {
+      "available": 0,
+      "method": "manual",
+      "setAt": 1784338205232
+    },
+    "https://github.com/psa-corporate-learning-branch/lsapp5000": {
+      "available": 1,
+      "method": "pinned",
+      "setAt": 1784338241432
+    },
+    "https://gww.bcpublicservice.gov.bc.ca/lsapp/dashboard.php": {
+      "available": 1,
+      "method": "pinned",
+      "setAt": 1784338190865
+    },
+    "https://just-ask-web-bdec76-prod.apps.silver.devops.gov.bc.ca/": {
+      "available": 0,
+      "method": "manual",
+      "setAt": 1784338247599
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "workspace": "clb",
   "orgLabel": "CLB",
-  "updatedAt": 1784334499483,
+  "updatedAt": 1784340523408,
   "pathways": [
     {
       "id": "1760492232638",
@@ -11,21 +11,21 @@
       "name": "CLB Full-Stack Developer Resources"
     },
     {
-      "id": "1755290377619",
-      "file": "pathways/1755290377619.json",
-      "sort_order": 1,
-      "name": "The Ability to Access"
-    },
-    {
       "id": "1746391996332",
       "file": "pathways/1746391996332.json",
-      "sort_order": 2,
+      "sort_order": 1,
       "name": "Full Stack Developer"
+    },
+    {
+      "id": "1755290377619",
+      "file": "pathways/1755290377619.json",
+      "sort_order": 2,
+      "name": "The Ability to Access"
     }
   ],
   "counts": {
     "pathways": 3,
     "steps": 13,
-    "bookmarks": 63
+    "bookmarks": 65
   }
 }
