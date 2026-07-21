@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1784345968639,
+  "updatedAt": 1784677646395,
   "overrides": {
+    "https://corporatelearning.gww.gov.bc.ca/learninghub": {
+      "available": 1,
+      "method": "pinned",
+      "setAt": 1784677603223
+    },
     "https://github.com/orgs/PSA-Corporate-Learning-Branch/projects/4": {
       "available": 1,
       "method": "pinned",

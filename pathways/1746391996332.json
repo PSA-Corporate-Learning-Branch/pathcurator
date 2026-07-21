@@ -8,8 +8,8 @@
     "acknowledgments": "",
     "sort_order": 1,
     "created_at": 1746391996332,
-    "last_updated": 1784345947888,
-    "version": "1f18ea-2026-07-18",
+    "last_updated": 1784569456702,
+    "version": "c8cf6d-2026-07-21",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": {
@@ -19,6 +19,13 @@
       "file": "images/3f618e56ba0b2d5ad9ff99233a4de90e5b075dfb18ebecd44d721f283fa9034c.jpg"
     },
     "version_history": [
+      {
+        "hash": "c8cf6d-2026-07-21",
+        "timestamp": 1784677645380,
+        "stepCount": 7,
+        "bookmarkCount": 35,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "1f18ea-2026-07-18",
         "timestamp": 1784345966194,
@@ -80,13 +87,6 @@
         "timestamp": 1751918110982,
         "stepCount": 6,
         "bookmarkCount": 39,
-        "modifiedBy": "itr8tech"
-      },
-      {
-        "hash": "af8xcm-2025-07-07",
-        "timestamp": 1751915381802,
-        "stepCount": 6,
-        "bookmarkCount": 38,
         "modifiedBy": "itr8tech"
       }
     ],
@@ -481,18 +481,6 @@
         "sort_order": 5,
         "bookmarks": [
           {
-            "id": "1746391996332-s5-b0",
-            "title": "5 Principles of Exceptional Case Studies in UX Portfolios | UX Tools",
-            "url": "https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/",
-            "url_norm": "https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios",
-            "description": "Principles to help you write unique and compelling UX Design case studies for your portfolio.",
-            "context": "Because iut's good.",
-            "required": 0,
-            "content_type": "Read",
-            "added_at": null,
-            "sort_order": 0
-          },
-          {
             "id": "1746391996332-s5-b1",
             "title": "Archivematica: open-source digital preservation system",
             "url": "https://www.archivematica.org/en/",
@@ -502,7 +490,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 1
+            "sort_order": 0
           },
           {
             "id": "1746391996332-s5-b2",
@@ -514,7 +502,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 2
+            "sort_order": 1
           },
           {
             "id": "1746391996332-s5-b3",
@@ -526,7 +514,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 3
+            "sort_order": 2
           },
           {
             "id": "1746391996332-s5-b4",
@@ -538,7 +526,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 4
+            "sort_order": 3
           },
           {
             "id": "1746391996332-s5-b5",
@@ -550,7 +538,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": null,
-            "sort_order": 5
+            "sort_order": 4
           },
           {
             "id": "1746391996332-s5-b7",
@@ -562,7 +550,7 @@
             "required": 1,
             "content_type": "Read",
             "added_at": 1751738216818,
-            "sort_order": 6
+            "sort_order": 5
           },
           {
             "id": "1746391996332-s5-b8",
@@ -574,7 +562,7 @@
             "required": 0,
             "content_type": "Read",
             "added_at": 1751843438375,
-            "sort_order": 7
+            "sort_order": 6
           }
         ]
       },
