@@ -8,17 +8,19 @@
     "acknowledgments": "",
     "sort_order": 1,
     "created_at": 1746391996332,
-    "last_updated": 1784786810687,
-    "version": "3d31f1-2026-07-23",
+    "last_updated": 1784787266946,
+    "version": "c1ba82-2026-07-23",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
-    "header_image": {
-      "sha256": "3f618e56ba0b2d5ad9ff99233a4de90e5b075dfb18ebecd44d721f283fa9034c",
-      "mime": "image/jpeg",
-      "ext": "jpg",
-      "file": "images/3f618e56ba0b2d5ad9ff99233a4de90e5b075dfb18ebecd44d721f283fa9034c.jpg"
-    },
+    "header_image": null,
     "version_history": [
+      {
+        "hash": "c1ba82-2026-07-23",
+        "timestamp": 1784787277532,
+        "stepCount": 7,
+        "bookmarkCount": 35,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "3d31f1-2026-07-23",
         "timestamp": 1784786846736,
@@ -78,13 +80,6 @@
       {
         "hash": "5za5zj-2025-07-08",
         "timestamp": 1752008377803,
-        "stepCount": 6,
-        "bookmarkCount": 39,
-        "modifiedBy": "itr8tech"
-      },
-      {
-        "hash": "5za5zj-2025-07-08",
-        "timestamp": 1752008109294,
         "stepCount": 6,
         "bookmarkCount": 39,
         "modifiedBy": "itr8tech"
