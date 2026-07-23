@@ -8,8 +8,8 @@
     "acknowledgments": "",
     "sort_order": 1,
     "created_at": 1746391996332,
-    "last_updated": 1784569456702,
-    "version": "c8cf6d-2026-07-21",
+    "last_updated": 1784786810687,
+    "version": "3d31f1-2026-07-23",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": {
@@ -19,6 +19,13 @@
       "file": "images/3f618e56ba0b2d5ad9ff99233a4de90e5b075dfb18ebecd44d721f283fa9034c.jpg"
     },
     "version_history": [
+      {
+        "hash": "3d31f1-2026-07-23",
+        "timestamp": 1784786846736,
+        "stepCount": 7,
+        "bookmarkCount": 35,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "c8cf6d-2026-07-21",
         "timestamp": 1784677645380,
@@ -81,13 +88,6 @@
         "stepCount": 6,
         "bookmarkCount": 39,
         "modifiedBy": "itr8tech"
-      },
-      {
-        "hash": "5za5zj-2025-07-07",
-        "timestamp": 1751918110982,
-        "stepCount": 6,
-        "bookmarkCount": 39,
-        "modifiedBy": "itr8tech"
       }
     ],
     "extra": {},
@@ -118,7 +118,7 @@
             "url_norm": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
             "description": "Accessibility (often abbreviated to A11y — as in, \"a\", then 11 characters, and then \"y\") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way.\n\nFor many people, technology makes things easier. For people with disabilities, technology makes things possible. Accessibility means developing content to be as accessible as possible, no matter an individual's physical and cognitive abilities and how they access the web.\n\nThe Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.\n– (W3C - Accessibility)",
             "context": "A wonderful resource that will take you far.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 1
@@ -130,7 +130,7 @@
             "url_norm": "https://www.a11yproject.com/",
             "description": "Learn the fundamentals and principles behind accessible design",
             "context": "Start here.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 2
@@ -175,7 +175,7 @@
             "url_norm": "https://dev.to/rodrigoodhin/list-of-emojis-hex-codes-35ma",
             "description": "Animal Emoji             Animal Type             Unicode Hex            ... Tagged with webdev, emoji, hexcodes, html.",
             "context": "",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 1
@@ -187,7 +187,7 @@
             "url_norm": "https://proton.me/blog/anonymity-vs-privacy",
             "description": "Anonymity is not the same thing as privacy, and confusing these two concepts can weaken your online security.",
             "context": "",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 2
@@ -208,7 +208,7 @@
             "url_norm": "https://github.com/bcgov/sso-keycloak",
             "description": "Contribute to bcgov/sso-keycloak development by creating an account on GitHub.",
             "context": "SSO DIY",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 0
@@ -244,7 +244,7 @@
             "url_norm": "https://docs.github.com/en/actions/about-github-actions/understanding-github-actions",
             "description": "Learn the basics of GitHub Actions, including core concepts and essential terminology.",
             "context": "Should be in it's own step practivally.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 3
@@ -256,7 +256,7 @@
             "url_norm": "https://nginx.org/",
             "description": "nginx (\"engine x\") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server. Originally written by Igor Sysoev and distributed under the 2-clause BSD License. Enterprise distributions, commercial support and training are available from F5, Inc.",
             "context": "",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 4
@@ -337,7 +337,7 @@
             "url_norm": "https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ",
             "description": "We're a small team of developers and designers spread out all across the world, building tools that help other developers build better user interfaces. We cr...",
             "context": "Watch this!",
-            "required": 0,
+            "required": 1,
             "content_type": "Watch",
             "added_at": null,
             "sort_order": 1
@@ -373,7 +373,7 @@
             "url_norm": "https://htmx.org/",
             "description": "htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext\n\n    htmx is small (~14k min.gz’d), dependency-free, extendable, IE11 compatible & has reduced code base sizes by 67% when compared with react",
             "context": "Fun stuff.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 4
@@ -397,7 +397,7 @@
             "url_norm": "https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript",
             "description": "Unlock Your Web Development Potential with this Beginner's Guide to HTML, CSS, and JavaScript! Learn the Fundamentals and Create Stunning Websites.",
             "context": "",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 6
@@ -418,7 +418,7 @@
             "url_norm": "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github",
             "description": "The B.C. government DevHub is a place to access common technical documentation, community knowledge bases, code samples and APIs.",
             "context": "Do yourself a favor and know this stuff.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 0
@@ -430,7 +430,7 @@
             "url_norm": "https://bcgov.github.io/sso-requests",
             "description": "The request process workflow tool for the RedHat SSO Dev Exchange service",
             "context": "We use this for Moodle and it should be preferred solution for SSO.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 1
@@ -442,7 +442,7 @@
             "url_norm": "https://learning.gov.bc.ca/psc/CHIPSPLM/EMPLOYEE/ELM/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?",
             "description": "Main registration platform for courses.",
             "context": "It's not the only game in town.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 2
@@ -466,7 +466,7 @@
             "url_norm": "https://api.gov.bc.ca/devportal/api-directory",
             "description": "BC Gov API Directory Find an API and request an API key to get started",
             "context": "Use these where you can.",
-            "required": 0,
+            "required": 1,
             "content_type": "Read",
             "added_at": null,
             "sort_order": 4
