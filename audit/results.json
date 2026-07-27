@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1784540016282,
+  "generatedAt": 1785146907758,
   "checkMethod": "github-action",
   "results": {
     "https://accessible.canada.ca/creating-accessibility-standards/can-asc-31-plain-language": {
@@ -10,8 +10,8 @@
       "redirectUrl": "https://accessible.canada.ca/standards-and-technical-guides/standards-and-technical-guides-database/can-asc-312025-plain-language",
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540016281,
-      "durationMs": 4689
+      "checkedAt": 1785146904112,
+      "durationMs": 828
     },
     "https://api.gov.bc.ca/devportal/api-directory": {
       "available": 1,
@@ -20,8 +20,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011744,
-      "durationMs": 1119
+      "checkedAt": 1785146903508,
+      "durationMs": 1317
     },
     "https://azure.microsoft.com/en-us/products/ai-services/ai-search": {
       "available": 1,
@@ -30,8 +30,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010523,
-      "durationMs": 223
+      "checkedAt": 1785146902128,
+      "durationMs": 386
     },
     "https://bcgov.github.io/common-service-showcase/services/ches.html": {
       "available": 1,
@@ -40,8 +40,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009865,
-      "durationMs": 339
+      "checkedAt": 1785146901294,
+      "durationMs": 262
     },
     "https://bcgov.github.io/sso-requests": {
       "available": 1,
@@ -50,8 +50,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010306,
-      "durationMs": 140
+      "checkedAt": 1785146901781,
+      "durationMs": 186
     },
     "https://byteofdev.com/posts/speed-up-font-loading": {
       "available": 1,
@@ -60,18 +60,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010515,
-      "durationMs": 121
-    },
-    "https://corporatelearning.gww.gov.bc.ca/learninghub": {
-      "available": 1,
-      "httpStatus": 200,
-      "statusLabel": "OK",
-      "redirectUrl": "https://logon7.gov.bc.ca/clp-cgi/int/logon.cgi?flags=1000:1,0&TYPE=33554433&REALMOID=06-e62f9c9a-4066-4ca5-a2f2-39e32661af31&GUID=&SMAUTHREASON=0&METHOD=HEAD&SMAGENTNAME=$SM$%2bMiFTVco2AseG3UowN11Tb8lc95Meei%2fZ%2faNY3zLYNAA8L0KvKBit75CrVUdInpa&TARGET=$SM$HTTPS%3a%2f%2fsfs7%2egov%2ebc%2eca%2faffwebservices%2fredirectjsp%2flsaapp%2fredirect%2ejsp%3fSAMLRequest%3dfVJNc4IwFLz7KxjuAgUVfaPO2NoPZ6wyanvopZPEYDMDCc0L2v77JtgPPdScyGN33$%2B7CEElZVDCpzZtc8feao2l53kdZSITm1civtQRFUCBIUnIEw2A9eZxDHERQaWUUU4V$%2FRrrMIYhcG6GkI82mI3$%2B5uJ0v72eL1zTt5jzt9fs876Up7dAoTexT3u32BjQa0ISQftxhzBGfuUarMfKtpLt7XqbVXmy5XtiNI3$%2BdecaGaXYg1nwm0RBpLD6Ke$%2B0obcfRJhpAkkASvTjU1KKFJKYRfTOmQghDzDENdmofUBYwEpI8P3Bq7e8F4xhWNS0EC13kGFE5ley7kGsht0LuLjdBjyCEh80ma2fL9cZJTH76uVES65Lr9XHf02r$%2BZ6xAQqoq2B0Op$%2FYY$%2BuOmi6HzBE1wPXYWGAHKwMLhyByGp4g$%2FTgWuvtk0UzbZZzN3507pkpj$%2F01wFV81EbNt5A4VaYsWZyAXf$%2Br8yk6JQhxvNibFfyOia$%2B144brWOZs7$%2FwvEX%26RelayState%3dhttps$%3A$%2F$%2Fcorporatelearning%2egww%2egov%2ebc%2eca$%2Flearninghub$%2F%26SMPORTALURL%3dhttps$%3A$%2F$%2Fsfs7%2egov%2ebc%2eca$%2Faffwebservices$%2Fpublic$%2Fsaml2sso%26SAMLTRANSACTIONID%3df1717c93-bb2d9173-265e5873-c4dc5ef1-b6019b9c-329",
-      "requiresAuth": 0,
-      "checkError": null,
-      "checkedAt": 1784540012908,
-      "durationMs": 3385
+      "checkedAt": 1785146902191,
+      "durationMs": 287
     },
     "https://dev.to/rodrigoodhin/list-of-emojis-hex-codes-35ma": {
       "available": 1,
@@ -80,8 +70,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010197,
-      "durationMs": 327
+      "checkedAt": 1785146901537,
+      "durationMs": 258
     },
     "https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github": {
       "available": 1,
@@ -90,8 +80,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009979,
-      "durationMs": 457
+      "checkedAt": 1785146901250,
+      "durationMs": 221
     },
     "https://developer.gov.bc.ca/docs/default/component/chefs-techdocs/About": {
       "available": 1,
@@ -100,8 +90,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010603,
-      "durationMs": 319
+      "checkedAt": 1785146901818,
+      "durationMs": 268
     },
     "https://developer.mozilla.org/en-US/docs/Glossary/Semantics": {
       "available": 1,
@@ -110,8 +100,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010298,
-      "durationMs": 60
+      "checkedAt": 1785146901742,
+      "durationMs": 87
     },
     "https://developer.mozilla.org/en-US/docs/Web/Accessibility": {
       "available": 1,
@@ -120,8 +110,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009938,
-      "durationMs": 409
+      "checkedAt": 1785146901354,
+      "durationMs": 320
     },
     "https://docs.github.com/en/actions/about-github-actions/understanding-github-actions": {
       "available": 1,
@@ -130,8 +120,8 @@
       "redirectUrl": "https://docs.github.com/en/actions/get-started/understand-github-actions",
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010320,
-      "durationMs": 97
+      "checkedAt": 1785146901894,
+      "durationMs": 192
     },
     "https://en.wikipedia.org/wiki/Mojibake": {
       "available": 1,
@@ -140,8 +130,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010367,
-      "durationMs": 61
+      "checkedAt": 1785146901957,
+      "durationMs": 176
     },
     "https://flexboxfroggy.com/": {
       "available": 1,
@@ -150,8 +140,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010467,
-      "durationMs": 100
+      "checkedAt": 1785146902202,
+      "durationMs": 308
     },
     "https://github.com/PSA-Corporate-Learning-Branch": {
       "available": 1,
@@ -160,8 +150,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011197,
-      "durationMs": 711
+      "checkedAt": 1785146903530,
+      "durationMs": 1322
     },
     "https://github.com/PSA-Corporate-Learning-Branch/lsapp": {
       "available": 1,
@@ -170,8 +160,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010186,
-      "durationMs": 726
+      "checkedAt": 1785146901908,
+      "durationMs": 926
     },
     "https://github.com/PSA-Corporate-Learning-Branch/psaelmsync": {
       "available": 1,
@@ -180,8 +170,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540014330,
-      "durationMs": 596
+      "checkedAt": 1785146906944,
+      "durationMs": 767
     },
     "https://github.com/bcgov": {
       "available": 1,
@@ -190,8 +180,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540012370,
-      "durationMs": 872
+      "checkedAt": 1785146904490,
+      "durationMs": 658
     },
     "https://github.com/bcgov/moodle-nginx/tree/dev": {
       "available": 1,
@@ -200,8 +190,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540013434,
-      "durationMs": 763
+      "checkedAt": 1785146905877,
+      "durationMs": 1086
     },
     "https://github.com/bcgov/sso-keycloak": {
       "available": 1,
@@ -210,8 +200,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540015170,
-      "durationMs": 541
+      "checkedAt": 1785146907757,
+      "durationMs": 512
     },
     "https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript": {
       "available": 1,
@@ -220,8 +210,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010817,
-      "durationMs": 302
+      "checkedAt": 1785146902679,
+      "durationMs": 671
     },
     "https://htmx.org/": {
       "available": 1,
@@ -230,8 +220,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010644,
-      "durationMs": 177
+      "checkedAt": 1785146902355,
+      "durationMs": 398
     },
     "https://learning.gov.bc.ca/psc/CHIPSPLM/EMPLOYEE/ELM/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?": {
       "available": 0,
@@ -240,8 +230,8 @@
       "redirectUrl": null,
       "requiresAuth": 1,
       "checkError": null,
-      "checkedAt": 1784540010852,
-      "durationMs": 329
+      "checkedAt": 1785146902721,
+      "durationMs": 698
     },
     "https://linuxiac.com/how-to-set-up-lemp-stack-with-docker-compose": {
       "available": 1,
@@ -250,8 +240,18 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010300,
-      "durationMs": 337
+      "checkedAt": 1785146901799,
+      "durationMs": 262
+    },
+    "https://moodle-950003-dev.apps.silver.devops.gov.bc.ca/": {
+      "available": 1,
+      "httpStatus": 200,
+      "statusLabel": "OK",
+      "redirectUrl": "https://moodle-950003-dev.apps.silver.devops.gov.bc.ca/login/index.php",
+      "requiresAuth": 0,
+      "checkError": null,
+      "checkedAt": 1785146902008,
+      "durationMs": 978
     },
     "https://nginx.org/": {
       "available": 1,
@@ -260,8 +260,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010394,
-      "durationMs": 96
+      "checkedAt": 1785146901904,
+      "durationMs": 177
     },
     "https://postgrest.org/en/stable/tutorials/tut0.html": {
       "available": 1,
@@ -270,8 +270,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010438,
-      "durationMs": 241
+      "checkedAt": 1785146901937,
+      "durationMs": 344
     },
     "https://protobuf.dev/overview": {
       "available": 1,
@@ -280,8 +280,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010485,
-      "durationMs": 165
+      "checkedAt": 1785146902023,
+      "durationMs": 205
     },
     "https://proton.me/blog/anonymity-vs-privacy": {
       "available": 1,
@@ -290,8 +290,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010625,
-      "durationMs": 739
+      "checkedAt": 1785146901985,
+      "durationMs": 553
     },
     "https://registry.developer.gov.bc.ca/login": {
       "available": 1,
@@ -300,8 +300,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010309,
-      "durationMs": 782
+      "checkedAt": 1785146901593,
+      "durationMs": 560
     },
     "https://sierra-app.virl.bc.ca/iii/cas/login?service=https://sierra-app.virl.bc.ca:443/patroninfo~S45/1366561/topIIITICKET&scope=45": {
       "available": 1,
@@ -310,8 +310,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011922,
-      "durationMs": 432
+      "checkedAt": 1785146903809,
+      "durationMs": 813
     },
     "https://systemfontstack.com/": {
       "available": 1,
@@ -320,8 +320,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010690,
-      "durationMs": 205
+      "checkedAt": 1785146902557,
+      "durationMs": 572
     },
     "https://thenewstack.io/linux-an-introduction-to-user-management": {
       "available": 1,
@@ -330,8 +330,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011545,
-      "durationMs": 718
+      "checkedAt": 1785146903405,
+      "durationMs": 848
     },
     "https://thenounproject.com/?utm_campaign=22235953-Newsletter%20|%20Edit%20Mode%20|%20FY26&utm_medium=email&_hsenc=p2ANqtz-_gxJlhJjFSzpEC1jg8J6Y3fVmwnLM9nYHvl_Pn3G_k7t0N-Oyo0DFqy_OTDdEQrCf73-2zce-o3Ym1cO0hRPUGvRU8ow&_hsmi=386016512&utm_content=385942453&utm_source=hs_email": {
       "available": 1,
@@ -340,8 +340,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009886,
-      "durationMs": 361
+      "checkedAt": 1785146901702,
+      "durationMs": 671
     },
     "https://theworld.com/~reinhold/diceware.html": {
       "available": 1,
@@ -350,18 +350,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010223,
-      "durationMs": 692
-    },
-    "https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios": {
-      "available": 1,
-      "httpStatus": 200,
-      "statusLabel": "OK",
-      "redirectUrl": "https://www.uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios",
-      "requiresAuth": 0,
-      "checkError": null,
-      "checkedAt": 1784540012001,
-      "durationMs": 1357
+      "checkedAt": 1785146901727,
+      "durationMs": 691
     },
     "https://wakatime.com/": {
       "available": 1,
@@ -370,8 +360,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011592,
-      "durationMs": 775
+      "checkedAt": 1785146903284,
+      "durationMs": 929
     },
     "https://www.11ty.dev/docs/permalinks": {
       "available": 1,
@@ -380,8 +370,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010944,
-      "durationMs": 341
+      "checkedAt": 1785146902996,
+      "durationMs": 868
     },
     "https://www.a11yproject.com/": {
       "available": 1,
@@ -390,8 +380,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009963,
-      "durationMs": 433
+      "checkedAt": 1785146901432,
+      "durationMs": 397
     },
     "https://www.accessarmada.com/blog/i-need-an-accessible-hero": {
       "available": 1,
@@ -400,8 +390,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540014343,
-      "durationMs": 2798
+      "checkedAt": 1785146907712,
+      "durationMs": 4517
     },
     "https://www.archivematica.org/en": {
       "available": 1,
@@ -410,8 +400,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011490,
-      "durationMs": 799
+      "checkedAt": 1785146903195,
+      "durationMs": 993
     },
     "https://www.geeksforgeeks.org/websites-apps/hicks-law-in-ux": {
       "available": 1,
@@ -420,8 +410,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540012063,
-      "durationMs": 319
+      "checkedAt": 1785146903897,
+      "durationMs": 492
     },
     "https://www.mozilla.org/en-CA": {
       "available": 1,
@@ -430,8 +420,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011958,
-      "durationMs": 470
+      "checkedAt": 1785146904012,
+      "durationMs": 1251
     },
     "https://www.simplepie.org/wiki": {
       "available": 1,
@@ -440,8 +430,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540010827,
-      "durationMs": 389
+      "checkedAt": 1785146902761,
+      "durationMs": 824
     },
     "https://www.w3.org/WAI/fundamentals/accessibility-intro": {
       "available": 1,
@@ -450,8 +440,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540009870,
-      "durationMs": 342
+      "checkedAt": 1785146901279,
+      "durationMs": 245
     },
     "https://www.youtube.com/channel/UCOe-8z68tgw9ioqVvYM4ddQ": {
       "available": 1,
@@ -460,8 +450,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011755,
-      "durationMs": 334
+      "checkedAt": 1785146903631,
+      "durationMs": 756
     },
     "https://www.youtube.com/watch?v=-HNpim5x-IE": {
       "available": 1,
@@ -470,8 +460,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011121,
-      "durationMs": 812
+      "checkedAt": 1785146902575,
+      "durationMs": 776
     },
     "https://www.zotero.org/": {
       "available": 1,
@@ -480,8 +470,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540011488,
-      "durationMs": 636
+      "checkedAt": 1785146903456,
+      "durationMs": 777
     },
     "https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/bc-visual-identity/download-marks": {
       "available": 1,
@@ -490,8 +480,8 @@
       "redirectUrl": null,
       "requiresAuth": 0,
       "checkError": null,
-      "checkedAt": 1784540012703,
-      "durationMs": 1759
+      "checkedAt": 1785146904629,
+      "durationMs": 1908
     }
   }
 }
