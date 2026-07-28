@@ -8,12 +8,19 @@
     "acknowledgments": "",
     "sort_order": 0,
     "created_at": 1760492232638,
-    "last_updated": 1784678224644,
-    "version": "ae5933-2026-07-21",
+    "last_updated": 1785279899823,
+    "version": "85b07d-2026-07-28",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
+      {
+        "hash": "85b07d-2026-07-28",
+        "timestamp": 1785279944843,
+        "stepCount": 5,
+        "bookmarkCount": 17,
+        "modifiedBy": "allanhaggett"
+      },
       {
         "hash": "ae5933-2026-07-21",
         "timestamp": 1784678241867,
@@ -75,13 +82,6 @@
         "timestamp": 1761862951886,
         "stepCount": 5,
         "bookmarkCount": 14,
-        "modifiedBy": "allanhaggett"
-      },
-      {
-        "hash": "wvhn2i-2025-10-21",
-        "timestamp": 1761071430952,
-        "stepCount": 5,
-        "bookmarkCount": 13,
         "modifiedBy": "allanhaggett"
       }
     ],
@@ -321,6 +321,18 @@
             "content_type": "Read",
             "added_at": 1784338040542,
             "sort_order": 3
+          },
+          {
+            "id": "91939ee6-be7c-4d5c-a8a6-ab1123dc1368",
+            "title": "bcgov/platform-services-namespace-check",
+            "url": "https://github.com/bcgov/platform-services-namespace-check",
+            "url_norm": "https://github.com/bcgov/platform-services-namespace-check",
+            "description": "Script that audits a single OpenShift namespace for common application architecture issues and prints a detailed report with recommendations.",
+            "context": "Haven't use this yet but I have a feeling we're going to be using it in the future.",
+            "required": 0,
+            "content_type": "Read",
+            "added_at": 1785279899812,
+            "sort_order": 4
           }
         ]
       }

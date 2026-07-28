@@ -8,17 +8,17 @@
     "acknowledgments": "",
     "sort_order": 1,
     "created_at": 1746391996332,
-    "last_updated": 1784787266946,
-    "version": "c1ba82-2026-07-23",
+    "last_updated": 1785279921149,
+    "version": "064cf5-2026-07-28",
     "created_by": "allanhaggett",
     "modified_by": "allanhaggett",
     "header_image": null,
     "version_history": [
       {
-        "hash": "c1ba82-2026-07-23",
-        "timestamp": 1784787277532,
+        "hash": "064cf5-2026-07-28",
+        "timestamp": 1785279944843,
         "stepCount": 7,
-        "bookmarkCount": 35,
+        "bookmarkCount": 36,
         "modifiedBy": "allanhaggett"
       },
       {
@@ -465,6 +465,18 @@
             "content_type": "Read",
             "added_at": null,
             "sort_order": 4
+          },
+          {
+            "id": "4e11a606-9cb5-493a-b037-aac1c432f402",
+            "title": "Moodle - Test Environment",
+            "url": "https://moodle-950003-dev.apps.silver.devops.gov.bc.ca/",
+            "url_norm": "https://moodle-950003-dev.apps.silver.devops.gov.bc.ca/",
+            "description": "",
+            "context": "",
+            "required": 1,
+            "content_type": "Read",
+            "added_at": 1785279921145,
+            "sort_order": 5
           }
         ]
       },
