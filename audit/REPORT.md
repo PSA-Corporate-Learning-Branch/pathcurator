@@ -1,6 +1,6 @@
 # Link audit — repo root
 
-**48 links checked** · 5 curator-overridden (skipped) · 47 OK · 1 Auth required
+**49 links checked** · 5 curator-overridden (skipped) · 48 OK · 1 Auth required
 
 ## 🔑 Auth required (login-walled — expected) (1)
 
