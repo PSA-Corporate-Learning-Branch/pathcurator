@@ -1,6 +1,6 @@
 # Link audit — repo root
 
-**49 links checked** · 5 curator-overridden (skipped) · 45 OK · 1 Auth required · 3 Blocked
+**49 links checked** · 5 curator-overridden (skipped) · 46 OK · 1 Auth required · 2 Blocked
 
 ## 🔑 Auth required (login-walled — expected) (1)
 
@@ -8,12 +8,11 @@
 | --- | --- | --- |
 | Full Stack Developer | [PSA Learning System Homepage](https://learning.gov.bc.ca/psc/CHIPSPLM/EMPLOYEE/ELM/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?) | 401 Auth required |
 
-## ⚠️ Couldn’t verify from CI (timeout / blocked — may be fine on-network) (3)
+## ⚠️ Couldn’t verify from CI (timeout / blocked — may be fine on-network) (2)
 
 | Pathway | Link | Status |
 | --- | --- | --- |
-| Full Stack Developer | [Tutorial 0 - Get it RunningView](https://postgrest.org/en/stable/tutorials/tut0.html) | — Blocked |
-| Full Stack Developer | [Diceware Passphrase Home](https://theworld.com/~reinhold/diceware.html) | — Blocked |
+| Full Stack Developer | [Tutorial 0 - Get it RunningView](https://postgrest.org/en/stable/tutorials/tut0.html) | 429 Blocked |
 | Full Stack Developer | [Download Government Marks - Province of British Columbia](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/bc-visual-identity/download-marks) | — Blocked |
 
 ## 📌 Curator-verified good (not checked) (5)
